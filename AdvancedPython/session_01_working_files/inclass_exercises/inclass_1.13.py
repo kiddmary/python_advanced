@@ -11,6 +11,7 @@ fh = open(fname)
 
 dreader = csv.DictReader(fh)
 
+print(dreader.fieldnames)
 
 
 # Expected Output:
