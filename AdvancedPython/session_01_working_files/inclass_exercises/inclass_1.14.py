@@ -23,8 +23,5 @@ dwrite.writeheader()
 
 wfh.close()
 
-
 # After running, the file newfile.csv in the parent directory should have the following text:
-
 # fname,lname,state
-

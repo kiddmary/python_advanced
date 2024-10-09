@@ -21,6 +21,9 @@ dwriter = csv.DictWriter(wfh, headers)
 
 dwriter.writeheader()
 
+for item in data_lines:
+    dwriter.writerow(item)
+
 wfh.close()
 
 
