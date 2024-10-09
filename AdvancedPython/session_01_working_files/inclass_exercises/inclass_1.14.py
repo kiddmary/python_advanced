@@ -13,7 +13,15 @@ import csv
 
 filename = '../newfile.csv'
 
+wfh = open(filename, 'w', newline='')
+
 headers = ['fname', 'lname', 'state']
+
+dwrite = csv.DictWriter(wfh, headers)
+
+dwrite.writeheader()
+
+wfh.close()
 
 
 # After running, the file newfile.csv in the parent directory should have the following text:
