@@ -8,6 +8,10 @@ fname = '../revenue.csv'
 
 fh = open(fname)
 
+dreader = csv.DictReader(fh)
+
+for row in dreader:
+	print(row)
 
 # Expected Output:
 
