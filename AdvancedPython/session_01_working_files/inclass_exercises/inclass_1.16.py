@@ -7,7 +7,9 @@ headers = ['fname', 'lname', 'state']
 
 data = ['Joe', 'Wilson', 'CA']
 
+d = dict(zip(headers, data))
 
+print(d)
 # Expected Output:
 
 # {'fname': 'Joe', 'lname': 'Wilson', 'state': 'CA'}
