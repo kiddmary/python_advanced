@@ -5,8 +5,8 @@
 # 
 # Print the value of the color argument.
 # 
-# Call the program with a --color argument and one of the valid colors; then call the program with
-# --color and an invalid choice; note that it is rejected.
+# Call the program with a --color argument and one of the valid colors; then call the
+# program with --color and an invalid choice; note that it is rejected.
 
 import argparse
 import os
@@ -16,12 +16,13 @@ parser = argparse.ArgumentParser(
                     prog=os.path.basename(sys.argv[0]),
                     description='prints your name!')
 
-
 parser.add_argument('-n', '--name', required=True)
+parser.add_argument('-c', '--color', required=True, choices=['blue', 'green', 'red'])
 
 args = parser.parse_args()
 
 print(args.name)
+print(args.color)
 
 # Sample program run:
 
@@ -32,4 +33,3 @@ print(args.name)
 # usage: inclass_ex.py [-h] -n NAME [-c {red,blue,green}]
 # inclass_ex.py: error: argument -c/--color: invalid choice: 'purple' (choose from 'red', 'blue', 'green')
 # %
-

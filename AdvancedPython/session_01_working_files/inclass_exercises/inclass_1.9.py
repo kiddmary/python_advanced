@@ -1,6 +1,8 @@
-# 1.9:  Write multiple rows to a CSV file using csv.writer.  Follow the same steps as above, but use
-# .writerows() to write the entire list of lists to the file.  Close the file, then look for
-# newfile2.csv in the session directory.
+# 1.9:  Write multiple rows to a CSV file using csv.writer.  Follow the same steps as above,
+#       but use .writerows() to write the entire list of lists to the file.  Close the file,
+#       then look for newfile2.csv in the session directory.
+
+import csv
 
 rows = [
          [ 'date', 'temp', 'wind' ],
@@ -14,5 +16,6 @@ wfh = open(fname, 'w', newline='')
 
 writer = csv.writer(wfh)
 
+writer.writerow(rows)
 
-
+wfh.close()

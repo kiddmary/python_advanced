@@ -10,5 +10,5 @@
 #   * Use cd /Users/[yourhomedir]/Desktop to move into the Desktop directory
 #   * Use cd ../Downloads to move from the Desktop directory to the Downloads directory
 #   * Use cd (Mac) or cd %HOMEPATH% (Windows) to move back into the home directory
-# 
 
+Done
