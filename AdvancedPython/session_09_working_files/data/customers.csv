@@ -1,0 +1,511 @@
+CustomerID,FirstName,LastName,UrbanRural,Birthdate,StreetAddress,City,State,CountryCode,Zipcode,CreditScore,SignUpProgram
+481,David S,Bonet,Urban,1986-02-21,2466 Oliver Street,Dallas,TX,US,75201,603.0,Bronze Member
+450,William ,Allen,Urban,1986-01-11,2997 Lowndes Hill Park Road,Bakersfield,CA,US,93307,548.0,Sign Up Silver
+476,Kathleen J,Pearson,*Missing*,1979-04-29,2137 Golden Ridge Road,East Glenville,NY,US,12302,463.0,Bronze Member
+435,Carolin ,Gil,Urban,1996-06-02,3556 Cooks Mine Road,Espanola,NM,US,87532,729.0,Always Gold
+369,Matthew ,Williams,Urban,1961-06-09,122 Morris Street,Pearsall,TX,US,78061,654.0,Sign Up Silver
+56,Beverly E,Colvard,Urban,1945-05-28,3423 Goldcliff Circle,Washington,DC,US,20007,488.0,Silver Sign Up
+323,Mercedes J,Seals,Urban,1963-03-21,4833 Turkey Pen Lane,Montgomery,AL,US,36104,576.0,Silver Sign Up
+77,Earl K,Gibson,Urban,1939-03-04,1982 Buena Vista Avenue,Corvallis,OR,US,97330,782.0,Sign Up Bronzed
+6,Giovanna B,Landry,Urban,1986-08-23,4189 Daylene Drive,Pontiac,MI,US,48342,516.0,Silver Sign Up
+348,Judy E,Johnson,Urban,1955-04-29,1657 Hillside Street,Paradise Valley,AZ,US,85253,674.0,Gold Sign Up
+416,Michelle C,Juarez,Urban,1957-10-29,4609 Virgil Street,Tallahassee,FL,US,32301,607.0,Bronze Member
+221,Steve E,Shane,*Missing*,1938-08-11,2190 Gerald L. Bates Drive,Worcester,MA,US,1610,556.0,Bronze Member
+118,Jeremy ,Levis,Urban,1984-08-06,2169 Tail Ends Road,Appleton,WI,US,54911,779.0,Sign Up gold
+250,John J,Seim,Urban,1994-01-17,31 Hillcrest Lane,Sherman Oaks,CA,US,91403,777.0,Always Gold
+174,Eve R,Spears,Urban,,2933 College Street,Norcross,GA,US,30093,617.0,silver from the StartBronze Sign Up
+94,Jesse N,Bailey,Rural,1976-01-03,4066 North Bend River Road,Irvine,KY,US,40336,666.0,Silver Sign Up
+326,Scott M,Waldon,Urban,1980-06-28,4354 Conifer Drive,Bellevue,WA,US,98007,642.0,Bronze Member
+276,Christopher S,Beaudette,Urban,1942-11-11,3228 McDonald Avenue,Altamonte Springs,FL,US,32714,692.0,Gold Sign Up
+343,Juan K,Cummings,Urban,,281 Morris Street,San Antonio,TX,US,78212,737.0,Sign Up Bronzed
+71,David D,Williams,Rural,1958-09-28,1868 Spirit Drive,White Springs,FL,US,32096,769.0,Always Gold
+7,Sara M,Kozak,Urban,1998-12-01,4305 Oakdale Avenue,Plant City,FL,US,33566,559.0,bronze from the beg
+10,Jarrod T,Knight,*Missing*,1955-01-31,3668 Newton Street,Lowry,MN,US,56349,657.0,Silver Sign Up
+251,Lana T,Crossland,Urban,1980-07-16,4574 Arbor Court,Casper,WY,US,82601,327.0,Sign Up gold
+409,Tomas R,Barnes,Urban,,2167 Bicetown Road,New York,NY,US,10016,509.0,Always Gold
+424,Jonathan V,Spence,Urban,1967-12-31,4974 Meadow View Drive,Cheshire,CT,US,6410,499.0,Choice Golden Member
+452,Ross S,Moore,Urban,1940-09-01,4661 Hickory Lane,Washington,DC,US,20017,678.0,Sign Up Bronzed
+173,Gearldine C,Rust,Urban,,1305 Northwest Boulevard,Rochelle Park,NJ,US,7662,1667.0,Silver Sign Up
+31,Raymond G,Batiste,Urban,1945-03-06,2703 Five Points,Baltimore,MD,US,21201,520.0,Bronze Member
+449,James J,Knapp,Urban,1982-12-21,4732 Blue Spruce Lane,Hanover,MD,US,21076,543.0,Gold Sign Up
+91,Matt E,Wagner,Urban,,475 Reynolds Alley,Los Angeles,CA,US,90017,529.0,Silver Sign Up
+382,Claudia T,Platt,Urban,1994-01-18,4595 Five Points,Baltimore,MD,US,21201,667.0,Sign Up gold
+132,Paulette ,Fowler,Urban,1844-02-09,2208 Tuna Street,Bloomfield Township,MI,US,48302,812.0,Choice Golden Member
+365,Paula S,Gray,Rural,1976-11-28,2470 Gateway Avenue,Lost Hills,CA,US,93249,817.0,Choice Golden Member
+74,Jarrett J,O'Neill,Urban,1985-05-05,2703 Ashford Drive,Dale City,VA,US,22193,730.0,Sign Up Bronzed
+211,Jim C,Gomez,*Missing*,,3735 Simpson Square,Watonga,OK,US,73772,621.0,Gold Sign Up
+330,Marian D,Flores,Urban,1936-12-27,1757 Franklin Street,Wicksburg,AL,US,36301,686.0,bronze from the beg
+370,William J,Lewter,Urban,1979-12-16,262 Glenwood Avenue,Cleveland,OH,US,44114,539.0,Choice Golden Member
+102,Doug F,Rosario,Urban,1973-05-08,3820 Bryan Street,Greensboro,NC,US,27403,654.0,Choice Golden Member
+219,Maryetta B,Nelson,Urban,1967-03-13,2894 Waterview Lane,Albuquerque,NM,US,87102,737.0,Sign Up gold
+155,Peter D,Ashton,Rural,1938-01-11,4343 Little Acres Lane,Neoga,IL,US,62447,,Sign Up Bronzed
+226,Elizabeth T,Belcher,Urban,1991-07-15,1966 Kidd Avenue,Fairbanks,AK,US,99701,790.0,bronze from the beg
+400,Kent ,Gentry,Urban,1986-08-29,1993 Todds Lane,San Antonio,TX,US,78225,657.0,Choice Golden Member
+64,Mary J,Noda,Urban,1971-03-23,2767 Stockert Hollow Road,Everett,WA,US,98208,626.0,Sign Up Silver
+3,Jody R,Gross,,,2701 Bagwell Avenue,Trilacoochee,FL,US,33537,311.0,bronze from the beg
+442,Martha B,Ramirez,Urban,1937-09-28,2336 Whitman Court,Hartford,CT,US,6103,419.0,Always Gold
+341,Allen ,Tolman,Urban,1946-04-02,2715 Catherine Drive,Jamestown,ND,US,58401,752.0,Sign Up gold
+83,Rebecca S,Ham,*unknown*,1979-11-24,1777 Cherry Ridge Drive,Rochester,NY,US,14608,712.0,Sign Up Silver
+285,Lois M,Toomey,*Missing*,1949-01-27,4190 Hide A Way Road,San Jose,CA,US,95113,582.0,bronze from the beg
+210,Heidi J,Land,Urban,1856-03-20,1630 Ralph Drive,Independence,OH,US,44131,777.0,Silver Sign Up
+472,Pauline T,Carter,Urban,1967-05-27,175 Mulberry Lane,West Palm Beach,FL,US,33401,614.0,Sign Up Silver
+182,Joseph M,Burger,Urban,1948-11-21,849 Grasselli Street,Seabrook,NH,US,3874,568.0,Bronze Member
+78,Florence J,Temple,Urban,1950-02-20,104 Diamond Cove,West Warwick,RI,US,2893,609.0,silver from the StartBronze Sign Up
+297,Nancy C,White,Urban,1974-05-24,4275 Caynor Circle,South Plainfield,NJ,US,7080,1617.0,bronze from the beg
+453,Michael G,Couch,Urban,1936-07-14,134 Wiseman Street,Knoxville,TN,US,37917,770.0,bronze from the beg
+496,Lydia C,Rose,Urban,1957-10-29,4408 Candlelight Drive,Baytown,TX,US,77520,784.0,Bronze Member
+426,James A,Ortiz,Urban,1938-07-25,1674 Main Street,Everett,WA,US,98204,528.0,Always Gold
+34,Lynn D,Miller,Urban,1976-08-20,299 Scheuvront Drive,Boulder,CO,US,80302,655.0,Always Gold
+80,Michele W,Barnett,Urban,1971-12-05,1623 Prudence Street,Dearborn,MI,US,48126,705.0,Sign Up Bronzed
+418,Lance D,Chaparro,Rural,1948-01-17,2836 Seltice Way,Albion,ID,US,83311,630.0,Choice Golden Member
+168,Ruth R,Koski,Urban,1980-03-14,3800 Bubby Drive,Austin,TX,US,78701,644.0,Sign Up Silver
+69,David F,Moore,Urban,1947-04-09,567 Johnstown Road,Bensenville,IL,US,60106,793.0,Choice Golden Member
+1,Lamont ,Fernandez,Urban,1950-07-29,435 Worley Avenue,Lynchburg,VA,US,24551,627.0,Sign Up Bronzed
+85,Eugene ,Tyler,Urban,1978-01-24,3084 Pritchard Court,Mankato,MN,US,56001,587.0,bronze from the beg
+12,Roger L,Sims,Urban,1981-01-24,2738 Sunny Glen Lane,Shaker Heights,OH,US,44120,694.0,Bronze Member
+230,Alexis ,Kelley,Rural,1970-02-21,4069 Southern Avenue,Knoxville,IA,US,50138,770.0,bronze from the beg
+23,Edward S,Vanderpool,Rural,1988-10-07,1340 Pick Street,Telluride,CO,US,81435,599.0,Bronze Member
+324,Scott N,Mungia,Urban,1971-03-14,1576 Massachusetts Avenue,Washington,DC,US,20024,522.0,Silver Sign Up
+79,Ines W,Mendivil,Urban,1986-05-16,1379 Ethels Lane,Lakeland,FL,US,33813,712.0,Sign Up Silver
+248,Chelsey O,Hernandez,Rural,1941-01-28,2264 Fantages Way,Salem,ME,US,4983,627.0,Choice Golden Member
+73,Paul T,Barrett,Urban,,4170 Parrish Avenue,Salinas,CA,US,93901,540.0,Silver Sign Up
+475,William ,Ayers,Urban,1986-05-24,890 Westwood Avenue,Long Island City,NY,US,11101,789.0,Sign Up gold
+336,Ann A,Ellis,Urban,1957-11-02,531 Rockford Road,Worcester,MA,US,1608,449.0,Silver Sign Up
+19,John J,Wilson,Urban,,265 Owagner Lane,Tukwila,WA,US,98168,541.0,Bronze Member
+281,Stacy V,Scott,Urban,1946-06-30,686 Poplar Avenue,San Diego,CA,US,92103,758.0,Sign Up Bronzed
+125,Heather R,Britt,Urban,1954-01-27,613 Jefferson Street,Norfolk,VA,US,23502,750.0,Silver Sign Up
+443,Gerald ,Gagne,,1972-01-23,1978 Flint Street,Saipan,MP,US,96950,657.0,Silver Sign Up
+249,Anthony T,Lavigne,Urban,1990-09-15,3544 Oliverio Drive,Wichita,KS,US,67202,692.0,Sign Up gold
+40,Helen R,Perry,Urban,1976-04-11,1939 Mahlon Street,Red Bank,NJ,US,7701,1712.0,bronze from the beg
+461,Kenneth J,Ray,Rural,1984-06-18,2536 Peck Street,Sutton,NH,US,3221,531.0,Silver Sign Up
+47,Charles D,Stewart,Urban,1951-10-17,747 Ersel Street,Dallas,TX,US,75216,772.0,Choice Golden Member
+302,Irene ,Shanks,Urban,1968-09-07,1195 John Calvin Drive,Chicago,IL,US,60605,756.0,Sign Up gold
+196,Linda P,Peebles,Urban,1987-11-26,1423 Irving Place,Fenton,MO,US,63026,785.0,Sign Up gold
+359,Jacqueline ,Griffen,Urban,1951-10-23,542 Liberty Street,Dallas,TX,US,75204,722.0,Silver Sign Up
+105,Cathy C,Lawson,Urban,1980-11-03,1177 Archwood Avenue,Casper,WY,US,82601,772.0,Sign Up Bronzed
+282,Jo J,Thomas,Rural,1960-10-02,852 Gregory Lane,Campbellsburg,KY,US,40011,769.0,silver from the StartBronze Sign Up
+149,Damon C,Clark,Urban,1964-11-17,3061 Patterson Fork Road,Chicago,IL,US,60654,662.0,Silver Sign Up
+156,Lisa S,Mills,Urban,1969-05-05,4525 Spruce Drive,Portland,PA,US,97205,710.0,silver from the StartBronze Sign Up
+447,Mathew L,Candelaria,Urban,1991-10-15,2276 Raccoon Run,Seattle,WA,US,98122,727.0,Silver Sign Up
+183,Travis A,Payne,Urban,1892-11-30,46 Cityview Drive,Bryn Mawr,PA,US,19010,713.0,Always Gold
+70,Reuben H,Pyburn,Urban,,2927 Crim Lane,Cario,OH,US,45820,668.0,Gold Sign Up
+245,Richard ,Marquez,Rural,1991-03-22,4989 Moonlight Drive,Hammonton,NJ,US,8037,1724.0,silver from the StartBronze Sign Up
+299,Robert D,Trask,Urban,1941-03-23,4905 Worley Avenue,Lynchburg,VA,US,24551,826.0,Always Gold
+413,Ruth C,Arvidson,Urban,1973-04-05,1457 Rubaiyat Road,Grand Rapids,MI,US,49503,729.0,silver from the StartBronze Sign Up
+3,Jody R,Gross,,,2701 Bagwell Avenue,Trilacoochee,FL,US,33537,311.0,bronze from the beg
+303,Amanda G,Palmer,Urban,,4899 Briarhill Lane,Akron,OH,US,44311,695.0,Choice Golden Member
+494,James M,Bright,,1984-02-05,3408 Berkley Street,Newark,PA,US,19714,580.0,Sign Up gold
+181,Lois D,Wright,Urban,1937-09-29,3999 Lincoln Street,Egg Harbor,NJ,US,8232,1679.0,bronze from the beg
+375,Chelsea ,Knight,Urban,1952-04-19,1445 Granville Lane,Lyndhurst,NJ,US,7071,1462.0,Sign Up Silver
+133,Michael K,Rasmussen,Urban,1991-01-15,1305 Hickory Heights Drive,Hanover,MD,US,21076,662.0,Silver Sign Up
+342,Florence A,Clark,Urban,1982-11-10,3825 Nixon Avenue,Knoxville,TN,US,37917,796.0,silver from the StartBronze Sign Up
+438,John D,Berman,Urban,1942-01-13,2151 Seneca Drive,Tigard,OR,US,97223,471.0,Always Gold
+177,Josie ,Powell,Urban,1996-07-08,284 Oakmound Road,Chicago,IL,US,60605,690.0,Gold Sign Up
+311,Paul J,Hight,*Missing*,1945-01-05,974 Dovetail Drive,Des Plaines,IL,US,60016,776.0,Bronze Member
+350,Lynette ,Ensign,Urban,1990-10-15,260 Cook Hill Road,East Haven,CT,US,6512,468.0,Sign Up gold
+486,Kyung B,Petersen,Rural,1976-01-08,1785 Marcus Street,Geraldine,AL,US,35974,679.0,Gold Sign Up
+138,Megan J,Berry,*unknown*,1952-06-12,223 Oak Street,Canton,NY,US,13617,619.0,Sign Up Silver
+498,Boyd J,Eason,Rural,1958-03-20,3103 Mercer Street,Peshtigo,WI,US,54157,744.0,Gold Sign Up
+272,Ruth R,Dupont,*Missing*,1995-05-09,378 Roguski Road,Alexandria,LA,US,71301,601.0,Choice Golden Member
+441,Robert J,Brown,Urban,1839-10-30,3358 Medical Center Drive,Tampa,FL,US,33602,677.0,Sign Up gold
+354,Kenneth P,Riddle,Urban,1969-02-15,2275 Franklee Lane,Philadelphia,PA,US,19107,583.0,silver from the StartBronze Sign Up
+87,Lauren S,Mendez,Urban,,4183 Cook Hill Road,New Haven,CT,US,6511,629.0,Sign Up gold
+76,Teresa J,Sand,Urban,1952-02-22,454 Pratt Avenue,Redmond,WA,US,98052,551.0,Always Gold
+448,Norbert M,Solis,Urban,1938-08-14,3040 Raccoon Run,Seattle,WA,US,98109,775.0,Choice Golden Member
+16,Michael D,Webb,*Missing*,1959-10-12,2815 Argonne Street,Felton,DE,US,19943,,bronze from the beg
+204,Eddie N,Gann,Urban,1938-06-07,282 Adonais Way,Atlanta,GA,US,30310,682.0,Bronze Member
+275,Orlando M,Gentry,Rural,1986-02-10,3352 Primrose Lane,Yuba,WI,US,54634,816.0,Gold Sign Up
+394,James B,Adams,Urban,1971-05-15,3469 Pinchelone Street,Norfolk,VA,US,23502,458.0,bronze from the beg
+20,Woodrow S,Payne,Urban,1944-08-22,1011 Tyler Avenue,Hialeah,FL,US,33012,564.0,Sign Up Bronzed
+454,Scott D,Ek,Rural,1978-12-12,930 Drainer Avenue,Marianna,FL,US,32448,834.0,bronze from the beg
+339,Marion M,Chapman,Rural,1978-11-27,500 Sigley Road,Marysville,KS,US,66508,744.0,Always Gold
+57,Mitzi R,Nickols,Urban,1984-11-25,1852 Asylum Avenue,New York,CT,US,10013,665.0,Sign Up Bronzed
+334,Kimberly M,Goldberg,Urban,1963-06-28,3401 Milford Street,Portsmouth,NH,US,3801,652.0,Sign Up Bronzed
+2,Aaron P,McWhorter,Urban,1997-11-19,2746 Michigan Ave,Gibsonia,PA,US,15044,704.0,Bronze Member
+239,William K,James,Urban,1947-02-09,2542 Junior Avenue,Norcross,GA,US,30093,631.0,Silver Sign Up
+406,Dave J,Goodwin,,1952-04-04,1142 Bartlett Avenue,Birmingham,MI,US,48011,795.0,Sign Up gold
+308,Neil L,Kim,Urban,1994-05-30,4808 Reppert Coal Road,Ridgeland,MS,US,39157,573.0,bronze from the beg
+469,Karen R,Cain,Urban,1972-03-12,3202 Spring Street,Champaign,IL,US,61820,655.0,Gold Sign Up
+432,Peter S,Bryan,Urban,1996-02-21,1076 White Oak Drive,Raytown,MO,US,64133,635.0,Bronze Member
+490,Eric H,Hardy,Rural,1986-02-17,1062 Kessla Way,Conway,SC,US,29527,599.0,silver from the StartBronze Sign Up
+26,Jeffrey K,Barton,Urban,1998-03-31,749 Nelm Street,Saint Louis,MO,US,63101,765.0,bronze from the beg
+366,Stanley R,Snow,*unknown*,1970-03-05,1687 Pearl Street,Rancho Cordova,CA,US,95742,681.0,Choice Golden Member
+43,Vickie R,Sanchez,Urban,1971-08-27,699 Vesta Drive,Chicago,IL,US,60640,590.0,Always Gold
+141,James E,Mascarenas,,1942-11-11,1228 Pine Garden Lane,Alpharetta,GA,US,30201,661.0,Bronze Member
+419,Frederick J,Cassity,Urban,1962-12-03,1150 Snider Street,Centennial,CO,US,80112,736.0,bronze from the beg
+317,Matthew J,Holmes,Urban,1981-05-19,3474 Richland Avenue,Tomball,TX,US,77375,706.0,Gold Sign Up
+127,Sara ,Mills,Urban,,3450 Hickory Lane,Washington,DC,US,20020,660.0,Silver Sign Up
+333,Edith F,Strout,Urban,1939-10-28,2449 Memory Lane,Dekalb,IL,US,60115,572.0,silver from the StartBronze Sign Up
+32,Timothy ,Roberts,Urban,1960-10-08,4073 Woodland Terrace,Sacramento,CA,US,95814,628.0,Always Gold
+114,Henry N,Thomas,Urban,1984-11-28,4586 Adams Avenue,Frederick,MD,US,21701,697.0,Silver Sign Up
+154,Kenneth J,Wilson,Urban,1955-02-23,2639 Woodland Terrace,Sacramento,CA,US,95827,565.0,Choice Golden Member
+212,Amy J,O'Donnell,Urban,1964-06-20,4715 Emily Renzelli Boulevard,San Jose,CA,US,95113,807.0,bronze from the beg
+423,Christopher ,Lancaster,Urban,1948-01-19,4149 Upton Avenue,Waterville,ME,US,4901,441.0,Sign Up gold
+58,Samuel ,Wheeler,Urban,1945-09-08,4339 Elk Rd Little,Tucson,AZ,US,85706,544.0,Sign Up Bronzed
+267,Ruth D,Ramsey,Rural,1947-05-31,3793 Berry Street,Saguache,CO,US,81149,690.0,Choice Golden Member
+25,Leslie L,Adair,Urban,1982-11-03,2035 Seltice Way,Boise,ID,US,83702,756.0,Bronze Member
+18,Barbara N,Edwards,*Missing*,1938-12-12,412 Ashwood Drive,Spencer,IA,US,51301,662.0,silver from the StartBronze Sign Up
+186,Shannon S,Gonzales,Rural,1955-03-13,1432 Glory Road,Ethridge,TN,US,38456,729.0,Sign Up gold
+67,Denver S,Harkins,Urban,1954-05-12,104 Cedar Street,Pine Bluff,AR,US,71601,688.0,Sign Up gold
+403,Earl P,Perry,Urban,1949-12-12,3892 Winifred Way,Bunker Hill,IN,US,46914,465.0,Sign Up Silver
+397,Lawrence N,Myers,Urban,1943-10-29,1423 Fairfax Drive,Los Angeles,CA,US,90017,617.0,Bronze Member
+95,Mabel T,Ashley,Urban,1983-07-15,1617 Lauren Drive,Madison,WI,US,53703,,Sign Up gold
+497,Julie A,Rice,Urban,1960-09-06,3366 Rosebud Avenue,Little Rock,AR,US,72212,788.0,Silver Sign Up
+355,Mike G,Rainbolt,Urban,1953-08-04,2922 Lynn Ogden Lane,Beaumont,TX,US,77701,680.0,Bronze Member
+24,Frances J,Kasten,Urban,1942-11-18,3759 Late Avenue,Oklahoma City,OK,US,73129,696.0,Bronze Member
+232,Perry ,Duhon,Rural,1994-10-14,1925 Locust Street,Pavo,GA,US,31778,659.0,silver from the StartBronze Sign Up
+266,Allison J,Donovan,Urban,1991-12-23,3105 White Oak Drive,Kansas City,MO,US,64108,602.0,Sign Up Bronzed
+209,Rebecca D,Donelson,Urban,1958-01-28,2784 Joy Lane,Sherman Oaks,CA,US,91403,781.0,Silver Sign Up
+6,Giovanna B,Landry,Urban,1986-08-23,4189 Daylene Drive,Pontiac,MI,US,48342,516.0,Silver Sign Up
+117,Patricia H,Rash,Urban,1961-10-12,2275 Winding Way,Providence,RI,US,2906,713.0,Always Gold
+46,Shawn J,Curtis,Urban,1954-12-15,2458 Hillview Street,Columbia,SC,US,29201,634.0,bronze from the beg
+395,Felix S,Lawson,Rural,1987-08-28,2539 Simons Hollow Road,Huntington Mills,PA,US,18622,670.0,Choice Golden Member
+17,James G,Phillips,Rural,1962-11-07,3758 Graystone Lakes,Milledgeville,GA,US,31061,627.0,Always Gold
+473,John ,Hick,Urban,1944-04-23,4038 Deans Lane,New York,NY,US,10011,631.0,bronze from the beg
+462,Buddy N,Easley,Rural,1893-04-08,3517 Cedar Street,Dierks,AR,US,71833,732.0,Sign Up Silver
+4,Philip K,Hogan,Urban,1946-07-11,2898 Chatham Way,Chantilly,MD,US,20151,596.0,Sign Up Bronzed
+228,Angel E,Martinelli,Urban,1956-03-17,1105 Lakewood Drive,Secaucus,NJ,US,7094,1758.0,Sign Up Silver
+483,Linda B,Hardin,Urban,1939-11-02,4253 Matthews Street,Coal City,IL,US,60416,662.0,Bronze Member
+61,Robert T,Samples,Urban,1960-09-15,3373 Adams Avenue,Frederick,MD,US,21701,522.0,Sign Up gold
+111,James ,Nicosia,*Missing*,1855-03-14,405 Pearl Street,Sacramento,CA,US,95826,554.0,Sign Up gold
+325,Jesus I,Mader,Urban,1857-12-26,1527 Rivendell Drive,Alliance,OH,US,44601,651.0,Silver Sign Up
+298,Pam D,Bennett,Urban,,1732 Franklin Avenue,Corpus Christi,TX,US,78401,508.0,Sign Up gold
+30,Marisol ,Frantz,Urban,,2566 Thompson Drive,Oakland,CA,US,94607,757.0,Silver Sign Up
+193,Cheryl R,Evans,Urban,1976-03-23,1608 Farland Street,Wheeling,IL,US,60090,708.0,Always Gold
+465,Chelsey G,Batista,Urban,1972-07-09,4724 Lochmere Lane,Hartford,CT,US,6103,734.0,Gold Sign Up
+27,Patricia ,Nader,,1943-10-01,2715 Arbor Court,Cheyenne,WY,US,82003,512.0,Choice Golden Member
+8,Michael ,Frasier,Urban,1938-07-05,3491 Commerce Boulevard,Lincoln,NE,US,68508,608.0,Always Gold
+463,Wanda G,Brown,Urban,1968-07-03,218 Hamilton Drive,Beaumont,TX,US,77701,544.0,Choice Golden Member
+109,Wade C,Knight,Urban,1871-03-29,1399 Leisure Lane,Moorpark,CA,US,93021,695.0,Sign Up Silver
+38,Victor ,Jackson,Rural,1962-07-04,3335 Arrowood Drive,Jacksonville,FL,US,32044,740.0,Bronze Member
+158,Reginald D,Johnson,Urban,1997-05-19,556 Pike Street,San Diego,CA,US,92123,667.0,Always Gold
+477,Mary ,Fox,,1958-02-09,966 Sharon Lane,South Bend,IN,US,46625,703.0,Always Gold
+119,Summer ,Wells,Rural,1951-02-04,366 Green Acres Road,Coinjock,NC,US,27923,,Sign Up Bronzed
+115,Barbara R,Beal,Urban,1958-09-30,1528 Wilmar Farm Road,Greenbelt,MD,US,20770,498.0,Choice Golden Member
+176,Virgil C,Gregory,Urban,1982-06-23,1576 Hidden Pond Road,Nashville,TN,US,37201,711.0,bronze from the beg
+195,Gladys ,Hinson,Urban,1972-06-22,4805 Williams Avenue,Burbank,CA,US,91504,771.0,silver from the StartBronze Sign Up
+319,Ben N,Matta,Urban,1964-05-06,2368 Golden Ridge Road,North Greenbush,NY,US,12180,580.0,Sign Up Bronzed
+145,Abby ,Vachon,Urban,1976-02-07,4254 Bassel Street,Hammond,LA,US,70401,479.0,Sign Up Bronzed
+377,Stephen C,Burnham,Urban,1958-12-16,3588 Gorby Lane,Jackson,MS,US,39213,,Sign Up gold
+430,Michael D,Russell,,1995-05-27,2476 Saint Clair Street,Oakland,MS,US,39848,711.0,bronze from the beg
+205,Ada A,Leblanc,Urban,1953-04-08,403 Buckhannan Avenue,East Syracuse,NY,US,13057,620.0,Gold Sign Up
+322,Keith ,Scruggs,Urban,1979-08-13,29 Nash Street,Detroit,MI,US,48219,676.0,Bronze Member
+363,Eula L,Cook,,1960-11-24,4915 Valley Drive,Philadelphia,PA,US,19108,768.0,silver from the StartBronze Sign Up
+455,Morgan D,Bueno,Urban,1981-12-04,2954 Longview Avenue,Jamaica,NY,US,11432,701.0,Silver Sign Up
+142,Selma J,Loftis,Urban,1990-02-24,2770 Daffodil Lane,Quantico,VA,US,22134,539.0,Always Gold
+495,Donald M,Irwin,Rural,1990-03-16,609 Mulberry Avenue,Pleasant Plains,AR,US,72568,615.0,Silver Sign Up
+68,David V,Clark,Rural,1939-11-14,1729 Ray Court,Laurinburg,NC,US,28352,651.0,Choice Golden Member
+262,Marie J,Lee,Urban,1936-09-06,4646 Argonne Street,Philadelphia,DE,US,19103,749.0,Sign Up Silver
+169,Mary J,Worthington,Rural,1838-10-03,3550 Shady Pines Drive,Salem,KY,US,42078,673.0,bronze from the beg
+5,Brad S,Watson,,,723 Poling Farm Road,Lincoln,NE,US,68501,544.0,Sign Up gold
+384,June ,Merrick,Urban,1945-12-26,3066 Main Street,Bellevue,WA,US,98004,566.0,Sign Up Silver
+246,Geoffrey S,Trejo,,1992-07-30,1857 Glenview Drive,Corpus Christi,TX,US,78476,675.0,bronze from the beg
+194,Ella M,Robin,Urban,1942-09-20,4538 Clarksburg Park Road,Phoenix,AZ,US,85012,719.0,Choice Golden Member
+256,Brandon M,McLennan,Urban,1973-02-24,4231 Hinkle Lake Road,Cambridge,MA,US,2141,738.0,Choice Golden Member
+110,Carrie M,Duncan,Urban,1941-07-26,1622 Jerry Dove Drive,Myrtle Beach,SC,US,29577,845.0,Sign Up Bronzed
+488,Krystina T,Martin,Urban,1979-04-13,4984 Giraffe Hill Drive,Plano,TX,US,75074,415.0,Sign Up gold
+146,Teresa ,Torres,*Missing*,1948-11-24,566 Middleville Road,El Monte,CA,US,91731,525.0,Gold Sign Up
+93,Justin G,Vargas,Urban,1992-07-17,793 Oakridge Lane,Dallas,TX,US,75234,635.0,silver from the StartBronze Sign Up
+153,Carmen J,Ellis,Urban,1968-01-28,4687 Bicetown Road,New York,NY,US,10013,664.0,Sign Up gold
+229,Jean R,Myers,Urban,1965-06-20,4693 Armory Road,Wilmington,NC,US,28401,744.0,Gold Sign Up
+417,Jane ,Warren,Urban,1945-12-21,3738 Marcus Street,Huntsville,AL,US,35816,744.0,Always Gold
+84,Travis H,Littlefield,Urban,1955-07-28,3191 Doe Meadow Drive,Annapolis Junction,MD,US,20701,609.0,Sign Up Silver
+273,Alvin ,Love,Urban,1973-07-19,680 Middleville Road,Los Angeles,CA,US,90017,677.0,Bronze Member
+166,Gregory S,Trahan,Urban,1950-05-11,342 Charack Road,Jasper,IN,US,47546,441.0,Always Gold
+164,Marie R,Stewart,Urban,1965-04-03,684 Hemlock Lane,Harlingen,TX,US,78550,738.0,Choice Golden Member
+200,Wendy ,Lewis,Urban,1961-05-24,803 Black Oak Hollow Road,San Jose,CA,US,95113,796.0,Gold Sign Up
+238,Marvin W,Oshiro,Urban,,2744 Hayhurst Lane,Southfield,MI,US,48235,670.0,Sign Up Silver
+75,Greg B,Hall,Urban,1973-06-11,2683 Raintree Boulevard,Coon Rapids,MN,US,55448,622.0,Sign Up Bronzed
+315,Mitchell J,Rangel,Urban,1943-05-03,3884 Myra Street,Providence,RI,US,2903,562.0,silver from the StartBronze Sign Up
+223,Patrick ,Graves,Urban,,3861 Nutters Barn Lane,Urbandale,IA,US,50322,537.0,Sign Up Silver
+480,Terry R,Adams,Urban,1993-12-07,4930 Hilltop Drive,Amarillo,TX,US,79109,653.0,bronze from the beg
+120,David P,Brown,Urban,1989-06-01,305 Middleville Road,Pomona,CA,US,91766,533.0,Sign Up Bronzed
+287,Pedro ,Jones,Urban,1998-05-25,4653 Rosemont Avenue,Melbourne,FL,US,32935,654.0,Sign Up Silver
+305,Ronald N,Warren,Urban,,3197 James Martin Circle,Worthington,OH,US,43085,550.0,Always Gold
+425,Steven R,Lewis,Urban,1947-12-14,480 Ferguson Street,Boston,MA,US,2199,637.0,Sign Up Silver
+361,Bruce A,Eidson,Urban,1983-12-02,268 Lyndon Street,Allentown,PA,US,18101,596.0,Choice Golden Member
+408,Mary G,Koh,Urban,1995-07-06,3291 Rosewood Lane,New York,NY,US,10014,586.0,Sign Up gold
+235,Alexia ,Hardin,Urban,,3832 Sycamore Fork Road,Minneapolis,MN,US,55402,645.0,Silver Sign Up
+381,Timothy S,Wilson,Urban,1980-07-02,2776 Northwest Boulevard,Kearny,NJ,US,7032,1633.0,Always Gold
+479,Jack ,Bernhardt,Urban,1996-02-26,3271 Henry Ford Avenue,New York,NY,US,10016,457.0,Choice Golden Member
+391,Bryan R,Fontenot,Urban,1944-07-12,1416 Boggess Street,Enon,OH,US,45323,568.0,bronze from the beg
+279,Evelyn K,Pickard,Rural,,3903 Maxwell Farm Road,Mccloud,CA,US,96057,608.0,Bronze Member
+37,Andrew M,Helms,Urban,1948-03-25,3775 Bond Street,Providence,RI,US,2905,694.0,Silver Sign Up
+197,Jose A,Owens,Urban,1984-02-10,338 Cook Hill Road,East Haven,CT,US,6512,430.0,Sign Up Bronzed
+140,James ,Jackson,Urban,1968-01-20,4487 Hillview Drive,Dalton,GA,US,30720,711.0,Gold Sign Up
+372,Laura J,Morales,Urban,1963-12-20,1291 Kelly Street,Salisbury,NC,US,28144,455.0,Always Gold
+254,Albert ,Saldana,Urban,1936-06-24,2646 Ward Road,Yonkers,NY,US,10701,816.0,Always Gold
+290,Marie R,Ashley,Rural,1938-09-11,2563 Thorn Street,Mountain View,WY,US,82939,707.0,bronze from the beg
+291,Beverly P,Carruth,,1960-04-13,3211 Center Street,Wayne,NJ,US,7477,1652.0,silver from the StartBronze Sign Up
+60,Richard E,Allison,,1983-09-12,1231 Gerald L. Bates Drive,Waltham,MA,US,2154,698.0,bronze from the beg
+112,Kenneth E,Higgins,Urban,1983-02-07,3355 Lowndes Hill Park Road,Los Angeles,CA,US,90017,539.0,Silver Sign Up
+90,Billy ,Donegan,Urban,1972-05-23,2259 Fleming Way,Richmond,VA,US,23233,677.0,Sign Up gold
+269,Barbara P,Maxwell,Urban,1937-06-06,3415 Big Indian,New Orleans,LA,US,70112,618.0,Gold Sign Up
+7,Sara M,Kozak,Urban,1998-12-01,4305 Oakdale Avenue,Plant City,FL,US,33566,559.0,bronze from the beg
+368,Crystal ,Franklin,Urban,1975-02-19,2335 Orchard Street,Golden Valley,MN,US,55427,658.0,Sign Up Silver
+352,Rutha C,Brown,Urban,1957-11-22,1724 Drummond Street,West Orange,NJ,US,7052,1707.0,Sign Up Bronzed
+393,Howard ,Berkley,,1966-04-17,683 Williams Mine Road,Wayne,NJ,US,7477,1595.0,Gold Sign Up
+159,Archie I,Horton,Rural,1964-11-11,1840 Late Avenue,Buffalo,OK,US,73834,813.0,Gold Sign Up
+151,Sanjuanita M,Puente,Rural,1962-11-26,3411 Diamond Street,Morganton,NC,US,28655,503.0,bronze from the beg
+178,Eugene ,Nygaard,Urban,1936-11-07,275 Counts Lane,Windsor,CT,US,6095,585.0,Gold Sign Up
+422,Susan C,Bradford,Urban,1995-10-10,309 Whispering Pines Circle,Lewisville,TX,US,75067,507.0,Sign Up Silver
+185,James J,Harrison,Urban,1989-03-29,1097 Hickory Ridge Drive,Las Vegas,NV,US,89109,584.0,Sign Up Bronzed
+288,John L,Speed,Urban,1948-07-30,1000 Jerry Dove Drive,Charleston,SC,US,29403,729.0,Choice Golden Member
+11,Sandy J,Williams,Urban,1944-04-16,2806 Pinnickinick Street,Bellingham,WA,US,98225,627.0,Choice Golden Member
+389,Wayne ,Burgess,Urban,1972-03-28,439 Still Pastures Drive,Columbia,SC,US,29210,491.0,bronze from the beg
+104,Judy T,Bass,Urban,1972-03-15,3925 Philadelphia Avenue,Salt Lake City,UT,US,84111,611.0,bronze from the beg
+82,Luisa F,Pierce,,1966-10-22,335 Bridge Street,Scipio,OK,US,74566,678.0,Sign Up Bronzed
+39,Jame V,Rogers,Urban,1941-06-22,1127 Thomas Street,Schaumburg,IL,US,60173,441.0,silver from the StartBronze Sign Up
+321,Michael E,Goldman,Urban,1866-02-08,2029 Fairfax Drive,New Brunswick,NJ,US,8901,1626.0,Choice Golden Member
+199,George J,Cosby,Urban,1979-11-27,88 Small Street,New York,NY,US,10022,676.0,Sign Up Bronzed
+263,Lydia J,Spohn,Urban,1978-07-01,2692 Pinewood Drive,Chicago,IL,US,60606,714.0,Silver Sign Up
+147,Shawn M,Cone,Urban,1989-09-27,3104 Poe Road,Florence,SC,US,29501,573.0,bronze from the beg
+401,Patricia J,Lerner,Urban,,1374 Buffalo Creek Road,Nashville,TN,US,37201,804.0,Sign Up gold
+148,Monique L,Morgan,Urban,1978-09-12,3515 Stratford Court,Raleigh,NC,US,27604,702.0,Gold Sign Up
+313,Esther T,Hopper,Urban,1979-03-01,3482 Crestview Terrace,San Antonio,TX,US,78205,583.0,Sign Up Silver
+292,Claudine A,Armentrout,Urban,,3662 Burwell Heights Road,Nederland,TX,US,77627,719.0,Sign Up gold
+124,Linda D,Adams,Urban,1971-07-01,2260 Werninger Street,Houston,TX,US,77032,580.0,Always Gold
+376,Robin J,Keyser,Urban,1941-04-23,1062 Linden Avenue,Orlando,FL,US,32809,614.0,Always Gold
+97,Charles A,Allen,Urban,1954-02-16,2484 Reel Avenue,Albuquerque,NM,US,87112,769.0,Gold Sign Up
+144,Yong S,Phillips,,,4567 Bagwell Avenue,Weekiwachee Spgs.,FL,US,32512,532.0,silver from the StartBronze Sign Up
+240,Kevin L,Shine,Urban,1954-03-29,3156 Newton Street,Minneapolis,MN,US,55415,730.0,Bronze Member
+278,Jesus A,Craig,Urban,1997-12-25,1021 Leisure Lane,Ventura,CA,US,93001,629.0,Silver Sign Up
+98,Frank ,Williams,*unknown*,1949-05-20,4860 Hayhurst Lane,Livonia,MI,US,48150,665.0,Sign Up gold
+357,Anthony K,Richards,,1958-03-21,3299 Hinkle Lake Road,Brookline,MA,US,2146,727.0,bronze from the beg
+123,John ,Weir,Urban,1991-03-14,2279 Cliffside Drive,Binghamton,NY,US,13901,459.0,Choice Golden Member
+184,Mary ,Hughes,*unknown*,1948-06-28,2388 Sand Fork Road,Logansport,IN,US,46947,499.0,Bronze Member
+203,Andres T,Dawkins,Urban,,387 Langtown Road,Toledo,OH,US,43609,775.0,bronze from the beg
+247,Paula S,Fryar,Urban,1988-10-13,29 Bruce Street,Saint Louis,MO,US,63101,488.0,Sign Up Bronzed
+312,Alfredo ,Jones,Rural,1969-10-03,1001 Oak Way,Kennard,NE,US,68034,772.0,Sign Up gold
+415,Andrew G,Craig,,,3357 Jody Road,Wayne,PA,US,19088,717.0,Choice Golden Member
+358,Angela J,Fowler,Urban,1987-02-17,4654 Matthews Street,Bloomington,IL,US,61701,634.0,Always Gold
+306,Nola ,Hall,Urban,1977-12-29,487 Kembery Drive,Chicago,IL,US,60654,639.0,Choice Golden Member
+404,Robert ,Wright,Rural,1995-03-07,4663 Butternut Lane,Jerseyville,IL,US,62052,701.0,Gold Sign Up
+383,Mary S,Bergeron,Urban,1973-01-17,4790 Heron Way,Milwaukie,OR,US,97222,834.0,Sign Up Silver
+126,Johnny V,Blunt,Urban,1939-12-09,200 Highland View Drive,Elk Grove,CA,US,95624,657.0,Gold Sign Up
+489,Thomas E,Luna,Urban,1937-05-20,3677 Steve Hunt Road,Miami,FL,US,33179,666.0,Gold Sign Up
+224,Nancy G,Crisler,Urban,1996-10-05,903 Buckhannan Avenue,Syracuse,NY,US,13202,731.0,Bronze Member
+427,Ruth A,Binder,Rural,1963-11-16,4061 Golden Ridge Road,Summit,NY,US,12175,458.0,Always Gold
+220,Nicholas M,Somerville,Urban,1959-07-11,573 Oak Avenue,North Chicago,IL,US,60064,433.0,Bronze Member
+130,Lyda T,Goodall,Urban,1955-12-01,155 Bartlett Avenue,Royal Oak,MI,US,48067,590.0,Silver Sign Up
+429,Harry F,Bishop,Urban,1992-08-08,270 South Street,Midland,TX,US,79701,621.0,Choice Golden Member
+485,Liza R,McCoy,Urban,,1033 Mulberry Street,Houston,TX,US,77006,636.0,Sign Up gold
+335,Alyssa F,Alderete,,1986-12-24,1519 Berkley Street,Philadelphia,PA,US,19108,723.0,Choice Golden Member
+385,Rene C,Jackson,,1965-02-20,268 Aspen Court,Boston,MA,US,2107,580.0,Bronze Member
+410,Jeff F,Dean,Urban,1977-04-24,3950 Columbia Mine Road,Huntington,WV,US,25701,630.0,Sign Up Silver
+362,Joshua E,Tucker,Rural,1964-02-21,2727 Washington Street,Port Lavaca,TX,US,77979,542.0,Choice Golden Member
+300,Ruth D,Lee,Rural,1938-06-08,4451 Blackwell Street,Sand Point,AK,US,99661,558.0,Sign Up Bronzed
+295,Geraldine T,Ryder,Urban,1981-03-14,495 Cliffside Drive,Binghamton,NY,US,13901,607.0,Gold Sign Up
+374,Rose ,Jimenez,Rural,1946-10-13,1179 Burnside Court,Scottsdale,AZ,US,85256,711.0,Gold Sign Up
+347,Ismael A,Brown,Urban,1952-03-19,1297 Fieldcrest Road,Westhampton Beach,NY,US,11978,,Sign Up Bronzed
+113,Barbara C,Gott,*unknown*,1950-01-14,4424 Hurry Street,Fredericksburg,VA,US,22408,785.0,bronze from the beg
+180,Tiffany S,Gebo,Urban,1967-11-25,1105 Holt Street,Delray Beach,FL,US,33483,615.0,silver from the StartBronze Sign Up
+478,Steven B,Russell,Urban,1996-01-20,2504 Sardis Station,Minneapolis,MN,US,55415,763.0,Sign Up gold
+353,Anne J,Holland,Urban,1936-06-05,1272 Lonely Oak Drive,Mobile,AL,US,36608,584.0,bronze from the beg
+337,Harold J,Lee,Urban,1948-02-08,2496 Sherwood Circle,Greensboro,NC,US,27410,602.0,Sign Up Silver
+492,Luis M,Morrison,Urban,1862-03-09,768 Airplane Avenue,Berlin,CT,US,6037,776.0,Sign Up Silver
+405,David S,Jantz,*Missing*,1981-03-21,2043 New Creek Road,Fort Wayne,IN,US,46802,639.0,silver from the StartBronze Sign Up
+234,Billy ,Moretti,Rural,,3368 Jessie Street,Bainbridge,OH,US,45612,592.0,silver from the StartBronze Sign Up
+457,Luis L,Okelley,Rural,1950-10-10,6 Ross Street,Sandoval,IL,US,62882,772.0,Always Gold
+318,Robert ,Pinero,,1953-09-06,516 Chapel Street,Sugar Land,TX,US,77487,567.0,Sign Up Silver
+165,Gerardo S,Judson,Urban,1991-03-20,3420 Stiles Street,Pittsburgh,PA,US,15205,548.0,Gold Sign Up
+137,James ,Miller,Urban,1953-06-29,2497 Pooz Street,Newark,NJ,US,7102,1730.0,Always Gold
+198,Guy L,Hanley,Rural,1973-04-16,286 Buffalo Creek Road,Charlotte,TN,US,37036,576.0,Always Gold
+259,Karen J,McRae,Urban,1951-09-01,4178 Goosetown Drive,Charlotte,NC,US,28202,591.0,Bronze Member
+233,Deborah M,Michel,Urban,1962-10-02,1562 Alexander Avenue,Concord,CA,US,94520,727.0,bronze from the beg
+116,Barbara S,Ferguson,Urban,1990-11-13,3157 Hummingbird Way,Winchester,MA,US,1890,714.0,Sign Up gold
+121,Roger A,Tate,*Missing*,1996-03-15,2488 Southern Street,Huntington,NY,US,11743,444.0,Gold Sign Up
+356,Lee E,Weber,Urban,1948-06-01,4225 Charles Street,Southfield,MI,US,48034,608.0,Sign Up gold
+225,Graham M,Christie,Urban,1984-05-21,571 Matthews Street,Dwight,IL,US,60420,608.0,Silver Sign Up
+411,Wanda ,Rolston,Urban,1946-06-05,2594 Kooter Lane,Charlotte,NC,US,28202,526.0,Silver Sign Up
+439,John ,Giles,Urban,1980-08-02,3530 Dovetail Estates,Clinton,OK,US,73601,719.0,bronze from the beg
+128,Mary A,Mayorga,Urban,1958-05-10,149 Cherry Tree Drive,Jacksonville,FL,US,32202,743.0,Silver Sign Up
+286,Rhonda ,Sanchez,*Missing*,1939-03-21,2178 Fantages Way,West Paris,ME,US,4289,748.0,Gold Sign Up
+433,Fred S,Evans,Urban,1974-02-05,3758 Counts Lane,Norwich,CT,US,6360,642.0,silver from the StartBronze Sign Up
+108,Riley D,Walsh,*unknown*,1991-11-23,701 Mount Tabor,New York,NY,US,10013,783.0,Gold Sign Up
+378,Milton F,Hunter,Urban,1951-11-20,3581 Holly Street,Columbus,GA,US,31901,696.0,Gold Sign Up
+332,Marvin E,Thomas,Urban,1982-01-06,1716 Small Street,New York,NY,US,10007,713.0,silver from the StartBronze Sign Up
+134,Robert ,Baugher,,1961-04-23,1499 Andy Street,Sioux Falls,SD,US,57102,441.0,Always Gold
+371,Brian ,Bitter,Urban,1987-04-08,2448 Eva Pearl Street,Baton Rouge,LA,US,70814,611.0,Always Gold
+45,Jean ,Castile,Urban,1983-05-14,4356 Jadewood Farms,East Orange,NJ,US,7017,1522.0,Always Gold
+471,Hilda J,Trice,Urban,1937-12-05,1527 Bond Street,Providence,RI,US,2908,773.0,Sign Up Silver
+66,Kristen C,McGee,Rural,1992-06-28,2863 Brighton Circle Road,Upsala,MN,US,56384,656.0,bronze from the beg
+284,Lois M,King,Urban,,1677 Rosemont Avenue,Orlando,FL,US,32803,587.0,Gold Sign Up
+86,Patricia F,Gustafson,Urban,1980-07-27,2985 Pineview Drive,Mankato,MN,US,56001,765.0,Sign Up Bronzed
+243,Sharon ,Pitre,Urban,1936-06-14,2094 Powder House Road,West Palm Beach,FL,US,33417,666.0,Choice Golden Member
+187,Dominga ,Watts,Urban,1854-11-27,930 Larry Street,Novato,CA,US,94947,,Gold Sign Up
+392,Heather ,Haas,Urban,1951-06-18,1361 Bolman Court,Mattoon,IL,US,61938,727.0,Sign Up Silver
+160,Earnestine J,Hoadley,Urban,1980-09-10,1081 Apple Lane,Morton,IL,US,61550,744.0,Always Gold
+13,Kenneth P,Runion,Urban,1945-03-24,2585 Pennsylvania Avenue,Eatontown,NJ,US,7724,1566.0,Gold Sign Up
+36,William M,Clark,Urban,1977-06-14,1983 Austin Secret Lane,Cedar City,UT,US,84720,600.0,Sign Up Silver
+29,Lindsey C,Ulrich,Urban,1984-05-15,1159 Walnut Drive,West Fargo,ND,US,58078,553.0,silver from the StartBronze Sign Up
+171,Danny G,Schmitz,Urban,1837-12-19,4617 Augusta Park,Weirton,WV,US,26062,601.0,Silver Sign Up
+143,Zachary ,Diamond,Urban,1944-03-24,98 Hamilton Drive,Ocean City,MD,US,21842,493.0,bronze from the beg
+407,Debra C,Barker,Urban,1986-12-20,1330 Griffin Street,Phoenix,AZ,US,85003,572.0,Gold Sign Up
+9,Steven S,Suttle,Urban,1994-09-04,2888 Desert Broom Court,Ridgewood,NJ,US,7450,1622.0,Bronze Member
+222,Bonnie J,Lagasse,Urban,1993-06-18,1888 Mapleview Drive,Memphis,TN,US,38116,605.0,Silver Sign Up
+96,Anthony S,Lewis,Urban,1851-04-25,3631 Modoc Alley,Moscow,ID,US,83843,577.0,Always Gold
+52,Charmain E,Murphy,Urban,1993-06-01,2435 Pine Street,Bridgeville,PA,US,15017,692.0,Silver Sign Up
+241,Lauren L,Hudson,Urban,1999-03-02,1655 Dovetail Drive,Deerfield,IL,US,60015,600.0,Choice Golden Member
+399,Mary E,Hall,Rural,1985-11-21,4017 Hillside Drive,Parks,LA,US,70582,650.0,Sign Up gold
+387,Shelley D,Hammond,Urban,1957-01-13,343 School Street,Washington,DC,US,20024,712.0,silver from the StartBronze Sign Up
+179,Paul V,Dragoo,Urban,1993-12-18,620 Forest Drive,Arlington,VA,US,22201,499.0,silver from the StartBronze Sign Up
+42,James P,Boyette,Urban,,652 Arthur Avenue,Oglesby,IL,US,61348,712.0,Gold Sign Up
+445,Carrie D,Jenkins,Urban,1954-02-04,155 Felosa Drive,Los Angeles,CA,US,90017,797.0,Choice Golden Member
+396,Kari D,Welter,Urban,1966-11-17,844 Whitman Court,Meriden,CT,US,6450,743.0,bronze from the beg
+207,Eleanor J,Mitchell,*unknown*,1970-11-13,3988 Hog Camp Road,Hickory Hills,IL,US,60457,673.0,Sign Up Silver
+283,Andrew L,Grooms,Urban,1951-03-26,4361 Lakeland Terrace,Livonia,MI,US,48150,688.0,bronze from the beg
+255,Elizabeth K,Yates,*unknown*,1972-02-05,1289 Five Points,Baltimore,MD,US,21202,673.0,Bronze Member
+421,Marilyn J,Cruz,Urban,1982-04-20,2826 Clover Drive,Pueblo,CO,US,81003,542.0,Choice Golden Member
+5,Brad S,Watson,,,723 Poling Farm Road,Lincoln,NE,US,68501,544.0,Sign Up gold
+257,Vera M,Christian,Urban,1964-11-22,4132 James Avenue,Wichita,KS,US,67213,666.0,silver from the StartBronze Sign Up
+458,Robert D,Campbell,Urban,1862-06-26,3969 Wilkinson Street,Gallatin,TN,US,37066,623.0,Silver Sign Up
+101,Chad M,Worth,Rural,1984-05-07,4034 Penn Street,Greenville,MO,US,63944,603.0,Gold Sign Up
+227,Brian M,Baptiste,Urban,1953-12-20,3473 Kelly Street,Kannapolis,NC,US,28081,667.0,silver from the StartBronze Sign Up
+10,Jarrod T,Knight,*Missing*,1955-01-31,3668 Newton Street,Lowry,MN,US,56349,657.0,Silver Sign Up
+214,Shauna ,Jackson,Urban,1938-06-20,724 Poplar Street,Chicago,IL,US,60605,534.0,Sign Up Bronzed
+437,Wilson T,Parra,Urban,1946-02-13,626 Mulberry Street,Houston,TX,US,77056,770.0,bronze from the beg
+172,Mary J,Isaac,Urban,1973-02-23,275 Birch Street,Indianapolis,IN,US,46204,833.0,Sign Up gold
+99,Shawn M,Lopez,Urban,1962-12-19,307 Willison Street,Eagan,MN,US,55121,376.0,Silver Sign Up
+293,Lisa J,Mercado,Urban,1966-01-18,1673 Vesta Drive,Chicago,IL,US,60641,664.0,Bronze Member
+216,Lillian E,Spindler,Rural,1976-01-31,1411 Lincoln Drive,Biglerville,PA,US,17307,649.0,Always Gold
+62,Kelly ,Judah,Urban,,2220 Court Street,Saint Louis,MO,US,63146,626.0,Sign Up Bronzed
+48,Lorraine ,Cornwell,Rural,1969-05-19,105 Sand Fork Road,Plymouth,IN,US,46563,594.0,bronze from the beg
+33,Rosa ,Smith,Urban,,3159 Red Maple Drive,Irvine,CA,US,92614,802.0,Sign Up gold
+268,Carolyn R,Lewis,Urban,1996-12-04,3630 Lowes Alley,Columbus,OH,US,43201,635.0,Always Gold
+328,Edgar L,Ladner,Urban,1949-03-24,1765 Lake Forest Drive,West Nyack,NY,US,10994,677.0,Bronze Member
+201,Gayle S,Kincaid,Urban,1988-12-18,3331 Oak Avenue,Palatine,IL,US,60067,797.0,Always Gold
+456,Ramona J,Saunders,Urban,1941-12-01,2265 Ella Street,Palo Alto,CA,US,94301,707.0,silver from the StartBronze Sign Up
+28,Vincent ,Raines,Urban,1946-10-17,1675 Villa Drive,Elkhart,IN,US,46516,473.0,Sign Up gold
+398,Richard C,Fears,Urban,1937-07-29,4439 Angie Drive,Anaheim,CA,US,92805,712.0,Silver Sign Up
+231,Dorothy C,Hodge,Urban,1959-05-30,1242 Charack Road,Blue Ash,IN,US,45242,637.0,silver from the StartBronze Sign Up
+261,Bill D,Owens,Urban,1990-04-23,4108 Nash Street,Detroit,MI,US,48219,,Sign Up gold
+379,Holly N,Burger,Urban,1948-11-03,3572 Evergreen Lane,Huntington Park,CA,US,90255,695.0,silver from the StartBronze Sign Up
+289,Gina A,Castaneda,Urban,1984-04-25,4102 Stanley Avenue,Bellerose,NY,US,11426,665.0,Gold Sign Up
+163,Carlos ,Fisher,Urban,1991-12-06,2137 Poe Lane,Lawrence,KS,US,66044,677.0,Sign Up gold
+434,Charles G,Rutt,Urban,1894-02-25,4691 Badger Pond Lane,Tampa,FL,US,33610,,Silver Sign Up
+139,Edward ,Janis,Rural,1938-05-25,1363 Breezewood Court,Olpe,KS,US,66865,751.0,Sign Up gold
+63,Karen ,Davis,Urban,1870-02-26,671 Tator Patch Road,Chicago,IL,US,60634,696.0,Sign Up gold
+136,Cleo M,Jones,Urban,1966-06-01,150 Burke Street,Cambridge,MA,US,2141,575.0,Choice Golden Member
+129,Diana D,Partridge,Urban,1978-12-27,132 Metz Lane,Camden,NJ,US,8102,1533.0,Silver Sign Up
+487,Betty H,Callaghan,Urban,1943-07-23,306 Jail Drive,San Pedro,CA,US,90731,593.0,Always Gold
+9,Steven S,Suttle,Urban,1994-09-04,2888 Desert Broom Court,Ridgewood,NJ,US,7450,1622.0,Bronze Member
+327,Shirley J,Hamer,Urban,,991 Clark Street,Brentwood,NY,US,11717,546.0,Bronze Member
+474,Gertrude K,Wells,Urban,1998-05-23,2107 Lochmere Lane,Hartford,CT,US,6103,650.0,Choice Golden Member
+65,James B,Wolf,Urban,1956-08-12,4479 Barrington Court,Pine Bluff,AR,US,71601,485.0,Sign Up gold
+301,Phillip M,Winters,Urban,1964-10-02,1177 New York Avenue,Frisco,TX,US,75035,732.0,Sign Up Silver
+15,Tina ,Salazar,Urban,1981-09-05,1498 Rocky Road,Philadelphia,PA,US,19146,457.0,Choice Golden Member
+157,John ,Owens,Urban,1951-07-13,2006 Clarksburg Park Road,Yuma,AZ,US,85364,563.0,Sign Up Bronzed
+41,Walter A,Sumter,Urban,1948-06-07,2291 Cross Street,Mount Pleasant,MI,US,48858,833.0,Silver Sign Up
+380,Kim B,Hoffman,Urban,1952-08-31,1550 River Road,Pueblo,CO,US,81003,560.0,Silver Sign Up
+470,Ernestine D,Alexander,Urban,1995-11-25,3284 Hudson Street,Dover,NJ,US,7801,1600.0,Always Gold
+412,Hugo M,Alford,Urban,1981-10-11,3029 Emerson Road,Ferriday,LA,US,71334,680.0,Sign Up Bronzed
+217,Ann J,Peacock,Urban,1967-09-17,2351 Monroe Avenue,Port Charlotte,FL,US,33952,447.0,Choice Golden Member
+280,Jason T,Cummings,*unknown*,1938-10-22,2296 Moonlight Drive,Maple Shade,NJ,US,8052,1727.0,silver from the StartBronze Sign Up
+482,Eddie S,Smith,Urban,1949-07-06,9 Hilltop Street,Springfield,MA,US,1103,749.0,Bronze Member
+440,Tracy J,Moore,Urban,1940-01-09,1520 Peaceful Lane,Cleveland,OH,US,44103,534.0,Sign Up Bronzed
+338,Richard A,Greenbaum,Urban,1994-02-21,3689 Burton Avenue,Memphis,TN,US,38117,755.0,Sign Up Bronzed
+237,Veronica S,Fisher,Urban,1844-01-16,1982 Oakridge Farm Lane,Waukesha,WI,US,53188,434.0,Silver Sign Up
+208,Pat M,Spencer,Urban,1950-08-17,1082 Southern Avenue,Fairfield,IA,US,52556,659.0,Always Gold
+213,Joel J,Ashcraft,Urban,1960-01-20,3815 Jewell Road,Minneapolis,MN,US,55415,555.0,bronze from the beg
+296,James ,Choi,*Missing*,1987-05-08,1884 Reynolds Alley,Pomona,CA,US,91766,500.0,Gold Sign Up
+500,Iris B,Lomax,Rural,1944-11-12,1634 Clousson Road,Terril,IA,US,51364,574.0,Sign Up Bronzed
+252,Glenn V,Stark,Urban,1948-07-06,2693 Kelly Drive,Clarksburg,WV,US,26301,819.0,Choice Golden Member
+499,Bennett B,Anderson,,,3730 Dale Avenue,Seattle,WA,US,98161,778.0,Sign Up Bronzed
+468,Ronald B,Marquez,Urban,1964-06-14,4036 Post Avenue,Duluth,MN,US,55805,586.0,Sign Up Bronzed
+304,Florence G,Ortiz,Urban,1856-02-25,4481 Dancing Dove Lane,Garden City,NY,US,11530,664.0,silver from the StartBronze Sign Up
+351,Theodore G,Magee,Rural,1973-08-09,2507 Elk Avenue,Blissfield,MI,US,49228,718.0,Bronze Member
+270,Aaron J,Spruill,Urban,1978-06-14,30 Farm Meadow Drive,Nashville,TN,US,37201,625.0,Sign Up Silver
+202,Frankie S,Oliver,Urban,1946-05-03,1506 Chardonnay Drive,Lady Lake,FL,US,32159,661.0,Always Gold
+162,Evelyn G,Franklin,*Missing*,1994-08-10,2644 Driftwood Road,San Francisco,CA,US,94108,646.0,Always Gold
+44,Judith ,Kennedy,Urban,1956-01-31,247 Michael Street,Houston,TX,US,77002,724.0,Bronze Member
+218,Harlan ,Gray,Urban,1995-09-28,1191 Farland Street,Elk Grove Village,IL,US,60007,795.0,Always Gold
+402,Margaret L,Jensen,Urban,,2007 Burke Street,Boston,MA,US,2110,729.0,silver from the StartBronze Sign Up
+191,Virginia C,McDonald,Urban,,1465 Midway Road,Siloam Springs,AR,US,72761,585.0,Always Gold
+310,Clair ,Douglas,Urban,1996-02-12,556 Kovar Road,Burlington,MA,US,1803,599.0,Sign Up Silver
+260,Gail S,Gordon,*Missing*,1940-12-25,1840 Rollins Road,Shelton,NE,US,68876,669.0,Sign Up gold
+106,Andrea J,Belue,Urban,1985-03-20,2973 Emily Drive,Lexington,SC,US,29072,678.0,Always Gold
+54,Abigail J,Fludd,Rural,1941-11-02,523 Buck Drive,Montpelier,VT,US,5602,586.0,Sign Up Silver
+390,Diane ,Tennant,Urban,1862-03-04,3255 Felosa Drive,Brownwood,TX,US,76801,649.0,Choice Golden Member
+2,Aaron P,McWhorter,Urban,1997-11-19,2746 Michigan Avenue,Gibsonia,PA,US,15044,704.0,Bronze Member
+451,Gary T,Dickens,,1940-03-24,3926 Junior Avenue,Forest Park,GA,US,30050,560.0,bronze from the beg
+493,Penny C,Reed,*unknown*,1950-09-26,4234 Wyatt Street,West Palm Beach,FL,US,33409,629.0,Sign Up Silver
+50,Phillip ,Santos,Rural,1945-10-26,1574 Burnside Avenue,Orderville,UT,US,84758,536.0,Silver Sign Up
+420,Melanie ,Tucker,*Missing*,1936-06-22,1549 Twin Oaks Drive,Traverse City,MI,US,49684,679.0,Silver Sign Up
+81,Donald D,Lee,*Missing*,1963-03-17,4731 Pearlman Avenue,Beverly,MA,US,1915,759.0,Choice Golden Member
+206,Victoria J,Ardoin,Rural,1957-02-13,2700 Blair Court,Knob Noster,MO,US,65336,644.0,Bronze Member
+35,Doyle H,Calhoun,Urban,1951-01-02,2014 Station Street,San Francisco,CA,US,94103,696.0,silver from the StartBronze Sign Up
+431,Nina D,Terry,Urban,1993-04-02,3877 Dovetail Drive,Elk Grove Village,IL,US,60007,635.0,Sign Up gold
+264,Ezequiel S,Saunders,Urban,1939-02-23,3969 Eagles Nest Drive,Sacramento,CA,US,95814,697.0,bronze from the beg
+428,Ronald ,Hamler,Urban,1876-03-19,112 Small Street,New York,NY,US,10011,714.0,Always Gold
+367,Melissa H,Sullivan,,1967-10-20,2951 Peck Street,Nashua,NH,US,3061,840.0,Sign Up gold
+92,David S,Gonzales,Urban,1965-02-10,3410 Fort Street,Rocky Mount,NC,US,27801,796.0,Sign Up Bronzed
+340,John W,Coleman,*Missing*,1939-10-16,714 Thompson Street,Paramount,CA,US,90723,657.0,Sign Up Bronzed
+484,Jonathon ,Morrison,,1949-10-15,1118 Elsie Drive,Sioux Falls,SD,US,57102,695.0,Gold Sign Up
+53,Armand J,Conger,Urban,1955-06-30,1591 Candlelight Drive,Houston,TX,US,77053,568.0,Sign Up Bronzed
+346,David J,King,Rural,1973-11-15,666 Harvest Lane,Ravenwood,MO,US,64479,685.0,bronze from the beg
+265,John K,Dozier,Urban,1974-03-30,333 Indiana Avenue,Waipahu,HI,US,96797,751.0,Silver Sign Up
+242,Marilyn R,Wilson,Urban,1954-02-06,1177 O Conner Street,Pascagoula,MS,US,39567,764.0,Gold Sign Up
+14,Joy J,Butler,Rural,1942-11-29,3480 Bungalow Road,Martinsburg,NE,US,68757,757.0,Sign Up gold
+316,Lillian ,Phillips,Urban,1996-07-01,4345 Oliverio Drive,Hutchinson,KS,US,67501,647.0,Always Gold
+89,Keenan L,Jones,*Missing*,1968-07-15,4947 Richison Drive,Lincoln,MT,US,59639,688.0,Choice Golden Member
+388,Mary ,Moore,Urban,1975-03-31,513 Giraffe Hill Drive,Irving,TX,US,75060,637.0,Sign Up Bronzed
+274,Dorothea J,Smith,Urban,1951-09-23,2398 Emeral Dreams Drive,Loves Park,IL,US,61111,630.0,Silver Sign Up
+167,Gary J,Peck,Urban,1993-12-03,4525 Sunrise Road,Las Vegas,NV,US,89109,501.0,Sign Up Bronzed
+329,Brandon K,Jenkins,*Missing*,1966-05-20,585 Park Street,Pleasanton,CA,US,94566,658.0,Silver Sign Up
+4,Philip K,Hogan,Urban,1946-07-11,2898 Chatham Way,Chantilly,MD,US,20151,596.0,Sign Up Bronzed
+135,Mary D,Spicer,Urban,1964-04-11,1779 Rhapsody Street,Gainesville,FL,US,32601,728.0,Gold Sign Up
+307,Amy T,Smith,,1974-02-13,3069 Horseshoe Lane,Philadelphia,PA,US,19108,608.0,Sign Up gold
+491,Teresa J,Staub,Urban,1853-04-09,754 Ward Road,El Paso,TX,US,79922,651.0,Always Gold
+320,Josh M,Quinn,*Missing*,1967-12-10,2011 Owagner Lane,Seattle,WA,US,98101,746.0,Always Gold
+244,Tracy C,English,Urban,1969-01-17,19 Traction Street,Spartanburg,SC,US,29302,558.0,Always Gold
+55,Brenda M,Callahan,Urban,1944-10-16,620 Green Acres Road,Greenville,NC,US,27834,645.0,Sign Up Silver
+364,Jessica ,Jordan,Urban,1991-09-07,2887 Hickman Street,Lombard,IL,US,60148,657.0,Sign Up gold
+51,Cameron R,Thome,Urban,1955-02-02,113 Stewart Street,Indianapolis,IN,US,46204,443.0,silver from the StartBronze Sign Up
+466,Juanita ,Forney,Urban,1956-12-11,3072 Wright Court,Seattle,WA,US,98119,599.0,bronze from the beg
+175,Lawrence S,Moffett,Rural,1985-10-10,3161 Reeves Street,Appleton,WI,US,54913,660.0,bronze from the beg
+446,Chastity J,Hay,Urban,1963-05-07,4031 Traders Alley,Raytown,MO,US,64133,770.0,Always Gold
+190,Lawrence R,Patrick,Urban,1985-12-20,2550 Elliot Avenue,Seattle,WA,US,98105,780.0,Bronze Member
+8,Michael ,Frasier,Urban,1938-07-05,3491 Commerce Boulevard,Lincoln,NE,US,68508,608.0,Always Gold
+464,Lance J,Bell,Urban,1985-03-27,4437 Poe Lane,Kansas City,KS,US,64105,585.0,Silver Sign Up
+188,Lawrence ,Jones,Urban,1974-06-06,2132 Emily Drive,West Columbia,SC,US,29169,682.0,Always Gold
+170,Betty R,Kennedy,Urban,1980-08-26,4638 Liberty Avenue,Anaheim,CA,US,92805,664.0,Gold Sign Up
+59,Emilio L,Martinez,,1943-09-29,1762 Plainfield Avenue,Syracuse,NY,US,13221,669.0,Choice Golden Member
+49,Rodrick ,Ramirez,Urban,,768 Red Dog Road,Charlotte,NC,US,28202,592.0,Sign Up Bronzed
+345,Joy ,Cherry,Urban,1942-01-22,1573 Emma Street,Tahoka,TX,US,79373,520.0,Silver Sign Up
+236,Agnes T,Rodriguez,Rural,1947-09-08,2643 Hidden Meadow Drive,Menoken,ND,US,58558,672.0,Gold Sign Up
+253,Barbara J,Shock,Urban,1981-03-02,659 Oak Drive,Colonie,NY,US,12205,616.0,Choice Golden Member
+22,Dwight M,Santos,Urban,1960-05-06,408 Rafe Lane,Jackson,MS,US,39201,811.0,silver from the StartBronze Sign Up
+314,Nellie L,Romig,*unknown*,1995-02-14,3227 Archwood Avenue,Pinedale,WY,US,82941,527.0,Sign Up gold
+460,Selena D,Lane,Urban,1936-11-25,1411 Freedom Lane,Stockton,CA,US,95204,554.0,Sign Up gold
+161,Manuel T,Cardona,Urban,1976-03-30,3526 Spring Haven Trail,Paterson,NJ,US,7501,1578.0,Always Gold
+277,Mitchell E,Hatton,Urban,1982-10-19,2530 Short Street,Austin,TX,US,78701,564.0,Always Gold
+444,Mark S,Whitford,Urban,1998-03-13,536 Oral Lake Road,Prior Lake,MN,US,55372,,Gold Sign Up
+192,Hubert R,McChesney,Rural,1989-03-27,4816 White Lane,Roberta,GA,US,31078,498.0,Bronze Member
+386,Linda Z,Williams,Rural,1947-10-06,3242 Coal Street,Berlin,PA,US,15530,585.0,Gold Sign Up
+294,Priscilla M,Fisher,Urban,1996-06-03,1289 Fowler Avenue,Norcross,GA,US,30071,639.0,Sign Up Silver
+414,Ramona B,See,Rural,1957-08-26,4380 Kessla Way,Darlington,SC,US,29532,697.0,Silver Sign Up
+344,Georgia L,Hopkins,Urban,1975-01-09,985 Lee Avenue,Runnemede,NJ,US,8078,1747.0,Bronze Member
+258,Paul P,McKee,Urban,,189 Oakway Lane,Los Angeles,CA,US,90017,679.0,Choice Golden Member
+309,Margaret ,Fitzgerald,*unknown*,1977-03-08,3599 Elk Creek Road,Jonesboro,GA,US,30236,670.0,silver from the StartBronze Sign Up
+150,Debbie C,Navarro,Urban,1948-04-28,271 Forest Avenue,New York,NY,US,10005,426.0,bronze from the beg
+131,Lori J,Walker,Urban,,2542 Massachusetts Avenue,Washington,DC,US,20024,668.0,Choice Golden Member
+152,Tammy W,Conway,*unknown*,1991-09-09,3095 Masonic Drive,Billings,MT,US,59101,810.0,Always Gold
+360,Henry ,Dejong,Rural,1947-02-15,3576 Hope Street,Sunnyvale,TX,US,75182,835.0,Sign Up Bronzed
+100,Diane N,Moton,Urban,1963-12-27,1365 Spadafore Drive,State College,PA,US,16803,676.0,Gold Sign Up
+373,Walter S,Quon,Urban,1984-02-12,3263 Briarwood Drive,Marlton,NJ,US,8053,1549.0,Always Gold
+88,Leann E,Roney,*Missing*,1880-09-05,1502 Blane Street,Saint Louis,MO,US,63103,808.0,Silver Sign Up
+459,Ester G,Roberts,Urban,1968-02-06,4805 Brannon Street,Los Angeles,CA,US,90026,581.0,Sign Up Silver
+331,Frank H,Walker,Urban,1996-08-10,3117 Goldcliff Circle,Washington,DC,US,20005,543.0,Sign Up gold
+215,Scott R,Allen,Urban,1968-11-09,2662 College Avenue,Dayton,OH,US,45414,538.0,bronze from the beg
+467,Marie J,Scott,Rural,1986-03-01,929 Mount Street,Fowler,MI,US,48835,825.0,Always Gold
+122,Christina R,Corrigan,Urban,1957-11-05,4115 Bobcat Drive,Silver Spring,MD,US,20904,455.0,Sign Up Bronzed
+11,Sandy J,Williams,Urban,1944-04-16,2806 Pinnickinick Street,Bellingham,WA,US,98225,627.0,Choice Golden Member
+21,Kevin ,Thole,Rural,1975-05-08,2671 Strother Street,Kennedy,AL,US,35574,728.0,bronze from the beg
+189,Joseph E,Glover,Rural,1945-03-10,3903 Yorkshire Circle,Oriental,NC,US,28571,653.0,Sign Up gold
+72,Erma T,Goodwin,Urban,1986-07-13,2469 Kemper Lane,Salt Lake City,UT,US,84116,539.0,Always Gold
+107,Lan ,Witt,*unknown*,,3659 Norman Street,Huntington Park,CA,US,90255,435.0,Sign Up gold
+271,Peter D,Hernandez,Rural,1867-08-31,3400 Glory Road,Shelbyville,TN,US,37160,623.0,bronze from the beg
+349,Dorothy J,Harden,Urban,1957-03-09,3743 Cityview Drive,Springfield,PA,US,19064,728.0,Silver Sign Up
+436,Mallory T,Fort,Rural,1854-05-27,214 Edwards Street,Franklinton,NC,US,27525,623.0,Silver Sign Up
+103,Charles O,Garcia,Urban,1996-05-21,3920 Beech Street,San Jose,CA,US,95131,761.0,Silver Sign Up

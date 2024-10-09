@@ -1,0 +1,13 @@
+This is the revenue file.
+These extra lines should be ignored.
+
+id,company,state,transactions,revenue
+hd34,Haddad's,PA,2,239.50
+wf19,Westfield,NJ,-,53.90
+ts06,The Store,NJ,4,211.50
+hp21,Hipster's,NY,1,11.98
+df8,Dothraki Fashions,NY,-,5.98
+aw91,Awful's,PA,3,23.95
+tc77,The Clothiers,NY,-,115.20
+
+Copyright 2025 Data Folks Ltd.
