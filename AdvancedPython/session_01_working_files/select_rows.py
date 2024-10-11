@@ -31,9 +31,12 @@ headers = next(reader)
 wfh = open(file_trg_name, 'w', newline='')
 writer = csv.writer(wfh)
 
-writer.writerow([headers[0], headers[1], headers[2]])
+idx = headers.index(column_name)
+writer.writerow(headers)
 
 for row in reader:
-    if row[1] == 'NY':
+    if row[idx] == column_val:
         writer.writerow(row)
 
+fh.close()
+wfh.close()
