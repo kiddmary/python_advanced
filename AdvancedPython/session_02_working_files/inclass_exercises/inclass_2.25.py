@@ -12,6 +12,12 @@ c = conn.cursor()
 
 c.execute('SELECT * FROM revenue LIMIT 1')
 
+desc = c.description
+
+for field in desc:
+    col = field[0]
+    print(col)
+
+conn.close()
 
 # We're using a LIMIT 1 to pull just one row from the table, which will have all columns.
-

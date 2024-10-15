@@ -9,7 +9,9 @@ import sqlite3
 
 conn = sqlite3.connect('../session_2.db')
 cursor = conn.cursor()
-
+cursor.execute('SELECT * FROM students WHERE state = "NJ"')
+nj_students = cursor.fetchall()
+print(nj_students)
 
 # Expected Output:
 

@@ -15,3 +15,4 @@
 # of the file), and then delete this file.  Then return to the start of these exercises and follow
 # directions to find the existing session_2.db file.
 
+Done

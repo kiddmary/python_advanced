@@ -16,8 +16,19 @@ conn = sqlite3.connect(db_filename)
 
 c = conn.cursor()
 
-query = 'INSERT INTO revenue VALUES (?, ?, ?)'
+name = 'Nothing Fits'
+state = 'NY'
+value = 2.01
 
+c.execute("INSERT INTO revenue (company, state, cost) VALUES (?, ?, ?)", (name, state, value))
+
+c.execute('SELECT * FROM revenue')
+
+for row in c:
+    print(row)
+
+conn.commit()
+
+conn.close()
 
 # If you don't see the change, make sure you executed conn.commit() after executing the insert.
-

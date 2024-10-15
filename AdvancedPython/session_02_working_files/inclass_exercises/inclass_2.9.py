@@ -5,3 +5,4 @@
 
 # sqlite> CREATE TABLE test (name TEXT, years INT, revenue REAL);
 
+Done

@@ -8,4 +8,8 @@ import sqlite3
 
 db_filename = '../session_2.db'
 
+conn = sqlite3.connect(db_filename)
 
+c = conn.cursor()
+
+conn.close()

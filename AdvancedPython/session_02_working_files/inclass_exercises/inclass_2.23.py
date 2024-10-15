@@ -12,4 +12,7 @@ c = conn.cursor()
 
 c.execute('SELECT * FROM revenue')
 
+rows = c.fetchmany(3)
+print(rows)
 
+conn.close()

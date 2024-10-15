@@ -14,14 +14,19 @@ import runreport
 import sqlite3
 
 conn = sqlite3.connect('../session_2.db')
-cursor = conn.cursor()
+c = conn.cursor()
 
-query = 'SELECT * FROM students LIMIT 1'
+# query = 'SELECT * FROM students LIMIT 1'
 
+c.execute('SELECT * FROM students LIMIT 1')
+
+desc = c.description
+
+namelist = [ thing[0] for thing in desc ]
+print(namelist)
+
+conn.close()
 
 # Next, use a list comprehension to retrieve a list of names:
-
 # Expected Output:
-
 # ['id', 'address', 'city', 'state', 'zip']
-

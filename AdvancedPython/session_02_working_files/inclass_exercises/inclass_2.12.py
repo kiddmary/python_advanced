@@ -2,3 +2,4 @@
 
 # sqlite> DELETE FROM test;
 
+Done

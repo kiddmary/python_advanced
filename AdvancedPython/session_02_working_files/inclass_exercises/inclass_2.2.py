@@ -37,3 +37,4 @@
 
 # sqlite>  .quit
 
+Done

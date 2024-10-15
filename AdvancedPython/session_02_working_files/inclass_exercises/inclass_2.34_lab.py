@@ -9,7 +9,9 @@ import runreport
 import sqlite3
 
 conn = sqlite3.connect('../session_2.db')
-cursor = conn.cursor()
+c = conn.cursor()
+c.execute('INSERT INTO planets ')
+
 
 
 # After committing the insert with conn.commit(), issue a SELECT query to confirm that the row has

@@ -2,3 +2,4 @@
 
 # sqlite> DROP TABLE test;
 
+Done

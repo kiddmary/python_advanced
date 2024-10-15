@@ -13,4 +13,8 @@ row2 = ['Mary', 'NY', 'USA']
 wfh = open('../new.csv', 'w', newline='')
 writer = csv.writer(wfh)
 
+writer.writerow(header)
+writer.writerow(row)
+writer.writerow(row2)
 
+wfh.close()

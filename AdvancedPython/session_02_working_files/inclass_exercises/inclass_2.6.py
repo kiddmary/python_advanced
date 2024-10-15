@@ -15,3 +15,4 @@
 # client needs the semicolon to understand the end of the query).  If you're done, simply type the
 # semicolon and hit [Enter].
 
+Done

@@ -9,3 +9,4 @@
 
 # The sqlite prompt should return without error after each INSERT query.
 
+Done

@@ -12,4 +12,7 @@ c = conn.cursor()
 
 c.execute("SELECT * FROM revenue WHERE company = 'Westfield'")
 
+row = c.fetchone()
+print(row)
 
+conn.close()

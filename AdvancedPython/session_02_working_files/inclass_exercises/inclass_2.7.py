@@ -6,3 +6,4 @@
 # sqlite> .schema test
 # CREATE TABLE test (name TEXT, years INT, revenue REAL);
 
+Done

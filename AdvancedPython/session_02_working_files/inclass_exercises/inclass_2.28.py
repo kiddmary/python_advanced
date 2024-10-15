@@ -11,4 +11,9 @@ rows = [ ('Joe', 'CA', 'USA'),
 wfh = open('../new2.csv', 'w', newline='')
 writer = csv.writer(wfh)
 
+writer.writerow(header)
 
+for thing in rows:
+    writer.writerow(thing)
+
+wfh.close()

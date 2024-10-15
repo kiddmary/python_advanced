@@ -31,3 +31,4 @@
 # omitting a semicolon from a query causes SQLite to allow "multi-line" queries, which means it will
 # wait until it sees the semicolon.
 
+Done

@@ -2,3 +2,4 @@
 
 # sqlite> SELECT * FROM test;
 
+Done

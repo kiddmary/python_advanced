@@ -9,3 +9,4 @@
 # When done, issue a .schema query to see the query and structure of the table reflected back to
 # you.
 
+Done

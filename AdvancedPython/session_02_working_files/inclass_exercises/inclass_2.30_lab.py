@@ -10,6 +10,13 @@ import sqlite3
 conn = sqlite3.connect('../session_2.db')
 cursor = conn.cursor()
 
+cursor.execute('SELECT * FROM planets')
+planet_all = cursor.fetchall()
+
+for row in planet_all:
+    print(row)
+
+conn.close()
 
 # Expected Output:
 

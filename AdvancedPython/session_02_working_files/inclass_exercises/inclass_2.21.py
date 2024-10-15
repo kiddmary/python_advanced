@@ -10,3 +10,11 @@ conn = sqlite3.connect(db_filename)
 
 c = conn.cursor()
 
+c.execute('SELECT * FROM revenue')
+
+revs = c.description
+
+for row in c:
+    print(row)
+
+conn.close()

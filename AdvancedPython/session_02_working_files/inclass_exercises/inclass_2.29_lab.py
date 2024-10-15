@@ -8,7 +8,17 @@
 # SELECT name FROM sqlite_master WHERE type= "table"
 
 import runreport
+import sqlite3
+conn = sqlite3.connect('../session_2.db')
 
+c = conn.cursor()
+
+c.execute('SELECT name FROM sqlite_master WHERE type = "table"')
+
+row = c.fetchall()
+print(row)
+
+conn.close()
 # Expected Output:
 
 # ('ad_companies',)
