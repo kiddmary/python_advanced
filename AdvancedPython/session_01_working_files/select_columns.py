@@ -17,8 +17,8 @@ parser.add_argument('-t', '--target', required=True)
 
 args = parser.parse_args()
 
-file_src_name = sys.argv[2]
-file_trg_name = sys.argv[4]
+file_src_name = args.source
+file_trg_name = args.target
 
 fh = open(file_src_name, 'r')
 reader = csv.reader(fh)

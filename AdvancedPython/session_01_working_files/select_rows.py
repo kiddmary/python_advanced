@@ -1,5 +1,5 @@
 """
- select_rows.py -- write specific rows containing a specific statement acronym value
+ select_rows.py -- write specific rows for a specific column and matching row value
 
  Author: Mary Kidd (marykidd@nypl.org)
  Last Revised: 10/11/2024
@@ -19,10 +19,10 @@ parser.add_argument('-v', '--value', required=True)
 
 args = parser.parse_args()
 
-file_src_name = sys.argv[2]
-file_trg_name = sys.argv[4]
-column_name = sys.argv[6]
-column_val = sys.argv[8]
+file_src_name = args.source
+file_trg_name = args.target
+column_name = args.column
+column_val = args.value
 
 fh = open(file_src_name, 'r')
 reader = csv.reader(fh)
