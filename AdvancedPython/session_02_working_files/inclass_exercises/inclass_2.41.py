@@ -13,5 +13,6 @@ import csv
 
 fh = open('../revenue.csv')
 reader = csv.reader(fh)
-
+header = next(reader)
+print(header)
 

@@ -9,4 +9,8 @@ import json
 fh = open('../weather_newyork_dod.json')
 dod = json.load(fh)
 
+for mykey in dod:
+    print(mykey)
+    print(dod[mykey]['mean_temp'])
+    print();
 

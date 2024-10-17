@@ -10,4 +10,5 @@ import json
 fh = open('../weather_newyork_lod.json')
 lod = json.load(fh)
 
-
+for mydict in lod:
+    print(mydict)
