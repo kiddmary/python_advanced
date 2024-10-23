@@ -1,3 +1,9 @@
+"""
+    solution_2.3.py -- Read from CSV, write to SQL
+    Author:  Mary Kidd (kiddmary@gmail.com)
+    Last Revised:  10/21/2024
+"""
+
 import sqlite3
 import csv
 
@@ -18,12 +24,6 @@ for row in reader:
     if row[17] == 'T':
         row[17] = None
     cursor.execute(query, (row[0], row[1], row[17], row[19]))
-
-query = 'SELECT * FROM weather_newyork LIMIT 10'
-cursor.execute(query)
-
-for row in cursor:
-    print(row)
 
 conn.commit()
 conn.close()

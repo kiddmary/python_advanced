@@ -1,5 +1,12 @@
+"""
+    solution_2.1.py -- Read from an SQL database, write to CSV
+    Author:  Mary Kidd (kiddmary@gmail.com)
+    Last Revised:  10/21/2024
+"""
+
 import sqlite3
 import csv
+
 def sql_to_csv(db_filename, table_name, csv_filename):
 
     conn = sqlite3.connect(db_filename)
@@ -10,7 +17,6 @@ def sql_to_csv(db_filename, table_name, csv_filename):
     conn.commit()
 
     desc = cursor.description
-
     header = []
 
     for col in desc:
@@ -27,11 +33,8 @@ def sql_to_csv(db_filename, table_name, csv_filename):
     conn.close()
     wfh.close()
 
-    return header
-
 db_name = 'session_2.db'
 table_name = 'revenue'
 csv_filename = 'revenue_from_db.csv'
 
 myresult = sql_to_csv(db_name, table_name, csv_filename)
-print(myresult)

@@ -1,3 +1,9 @@
+"""
+    solution_2.4.py -- Read from JSON, write to SQL
+    Author:  Mary Kidd (kiddmary@gmail.com)
+    Last Revised:  10/21/2024
+"""
+
 import sqlite3
 import json
 
@@ -16,15 +22,10 @@ for ikey in dod:
     mean_temp = dod[ikey]['mean_temp']
     precip = dod[ikey]['precip']
     if precip == 'T':
-        precip == None
+        precip = None
     events = dod[ikey]['events']
 
     cursor.execute(query, (date, mean_temp, precip, events))
 
-query = 'SELECT * FROM weather_newyork LIMIT 10'
-cursor.execute(query)
-
-for row in cursor:
-    print(row)
-
+conn.commit()
 conn.close()
