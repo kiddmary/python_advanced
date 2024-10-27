@@ -12,9 +12,14 @@
 # supplied by a separate CSS file that was not downloaded.)
 
 import runreport
-
 import requests
 
 url = 'https://pycoders.com/'
 
+response = requests.get(url)
 
+text = response.text
+
+wfh = open('pycoders.html', 'w')
+wfh.write(text)
+wfh.close()

@@ -8,9 +8,12 @@
 # use 'wb' (write binary) instead of 'w'.
 
 import runreport
-
 import requests
 
 url = 'https://cdn.vox-cdn.com/uploads/chorus_image/image/32167377/monty-python-3by2.0.jpg'
 
-
+response = requests.get(url)
+image_bytes = response.content
+wfh = open('retrieved_image.jpg', 'wb')
+wfh.write(image_bytes)
+wfh.close()

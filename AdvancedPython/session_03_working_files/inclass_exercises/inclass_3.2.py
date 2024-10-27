@@ -9,4 +9,9 @@ url = 'https://forecast.weather.gov/product.php?site=NWS&issuedby=CTP&product=AF
 
 response = requests.get(url)
 
+headers = response.headers
+
+for key, val in response.headers.items():
+    print(f'{key}: {val}')
+
 

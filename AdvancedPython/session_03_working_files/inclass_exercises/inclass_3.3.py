@@ -1,5 +1,5 @@
-# 3.3:  Issue a GET request, view status code.  Print the .status_code attribute from the response,
-
+# 3.3:  Issue a GET request, view status code.  Print the .status_code attribute from the response.
+#
 # Next, change one of the parameters to see how the code changes; also, change the spelling of the
 # word 'product'.
 # 
@@ -8,9 +8,13 @@
 
 import requests
 
-url = 'https://forecast.weather.gov/product.php?site=NWS&issuedby=CTP&product=AFD'
+url = 'https://forecast.weather.gov/product.php?site=NWS&issuedby=CTP&product=AFD'#
 
-response = requests.get(url)
+response = requests.get(url)        # requests.response object
+
+print(response.status_code)         # int, 200
+
+print(requests.status_codes._codes[response.status_code])
 
 
 # print(requestH.status_codes._codes[])

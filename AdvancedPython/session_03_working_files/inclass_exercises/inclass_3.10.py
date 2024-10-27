@@ -13,11 +13,10 @@ import requests
 spoof_browser = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 
 response = requests.get('http://davidbpython.com/cgi-bin/http_reflect'
-                        #, headers={
-                        #         'User-Agent':  spoof_browser,
-                        #         'Accept':      'text/plain',
-                        #         }
+                        , headers={
+                                 'User-Agent':  spoof_browser,
+                                 'Accept':      'text/html',
+                                 }
                         )
 
 print(response.text)
-

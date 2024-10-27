@@ -8,12 +8,18 @@
 
 import requests
 
-url = 'http://www.yahoo.com'
-
+# url = 'http://www.yahoo.com'
 # url = 'https://www.microsoft.com/en-us/'      # Microsoft in English
-# url = 'https://www.microsoft.com/fr-fr/'      # Microsoft in French
+url = 'https://www.microsoft.com/fr-fr/'      # Microsoft in French
 
 response = requests.get(url)
 
+text = response.text
+print(type(text))
+encoding_text = response.encoding
+print(encoding_text)
 
-
+content = response.content
+print(type(content))
+encoding_content = response.encoding
+print(encoding_content)

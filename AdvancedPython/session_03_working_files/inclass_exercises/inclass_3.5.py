@@ -8,6 +8,11 @@ url = 'https://davidbpython.com/advanced_python/supplementary/python.png'   # a 
 
 response = requests.get(url)
 
+image_bytes = response.content
+print(f'{len(image_bytes)} bytes')
+
+wfh = open('python_strip.png', 'wb')
+wfh.write(image_bytes)
+wfh.close()
 
 # Check the folder where this script or notebook is located; you should find the image file there.
-
