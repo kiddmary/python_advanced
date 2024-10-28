@@ -10,6 +10,12 @@ text = fh.read()
 
 soup = BeautifulSoup(text, 'html.parser')
 
+# <h3 class="midpage">This is a midpage heading.</h3>
+midpage = soup.find('h3', {'class': 'midpage'})
+print(midpage.text)
+
+# print(soup)
+
 # Expected Output:
 
 # This is a midpage heading.
