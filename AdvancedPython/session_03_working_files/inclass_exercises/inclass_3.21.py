@@ -9,3 +9,5 @@ text = open(scrapee).read()
 
 soup = BeautifulSoup(text, 'html.parser')
 
+first_meta_tag = soup.meta['value']
+print(first_meta_tag)

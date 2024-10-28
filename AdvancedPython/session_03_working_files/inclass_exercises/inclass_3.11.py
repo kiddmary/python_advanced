@@ -8,7 +8,6 @@ import requests
 
 my_params = {'a': 1, 'b': 'hello'}
 
-response = requests.get('http://davidbpython.com/cgi-bin/http_reflect')
+response = requests.get('http://davidbpython.com/cgi-bin/http_reflect', params=my_params)
 
 print(response.text)
-

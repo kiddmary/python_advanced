@@ -9,3 +9,6 @@ text = open(scrapee).read()
 
 soup = BeautifulSoup(text, 'html.parser')
 
+all_param_values = soup.find_all('p', {'class': 'story'})
+print(all_param_values)
+

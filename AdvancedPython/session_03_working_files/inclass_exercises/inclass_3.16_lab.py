@@ -7,3 +7,22 @@
 # and that if you loop through this list of dicts, the key author is the author's name, and
 # definition is the definition.
 
+import runreport
+import requests
+
+url = 'http://api.urbandictionary.com/v0/define'
+
+params = {'term': 'sigma'}
+
+response = requests.get(url, params=params)
+
+json_obj = response.json()
+print(json_obj)
+
+for defs in json_obj['list']:
+    print('=====')
+    print('')
+    print(f'Author: {defs['author']}')
+    print('')
+    print(f'Definition: {defs['definition']}')
+    print('')

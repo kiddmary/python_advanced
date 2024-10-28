@@ -8,7 +8,7 @@
 
 import requests
 
-url = 'https://forecast.weather.gov/product.php?site=NWS&issuedby=CTP&product=AFD'#
+url = 'https://forecast.weather.gov/product.php?site=NWS&issuedby=CTP&product=AFD'
 
 response = requests.get(url)        # requests.response object
 

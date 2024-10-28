@@ -13,5 +13,11 @@ import requests
 
 url = 'http://davidbpython.com/advanced_python/supplementary/dated_file.csv'
 
+response = requests.get(url)
+text = response.text
+lines = text.splitlines()
 
+mycsv = csv.reader(lines)
 
+for row in mycsv:
+    print(row)

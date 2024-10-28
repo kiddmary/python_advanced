@@ -8,7 +8,6 @@ import requests
 
 my_data = {'a': 1, 'b': 'hello'}
 
-response = requests.post('http://davidbpython.com/cgi-bin/http_reflect')
+response = requests.post('http://davidbpython.com/cgi-bin/http_reflect', data=my_data)
 
 print(response.text)
-

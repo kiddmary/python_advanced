@@ -12,7 +12,6 @@ file_bytes = open('../test_file.txt', 'rb')
 file_dict = { 'file':  ('test_file.txt', file_bytes,
                         'text/plain') }
 
-response = requests.post('https://davidbpython.com/cgi-bin/http_reflect')
+response = requests.post('https://davidbpython.com/cgi-bin/http_reflect', files=file_dict)
 
 print(response.text)
-

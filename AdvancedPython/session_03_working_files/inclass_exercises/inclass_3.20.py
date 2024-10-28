@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 scrapee = '../dormouse.html'
 
 text = open(scrapee).read()
-
 soup = BeautifulSoup(text, 'html.parser')
 
+tag = soup.find('p', attrs={'class': 'story_title'})
+print(tag)

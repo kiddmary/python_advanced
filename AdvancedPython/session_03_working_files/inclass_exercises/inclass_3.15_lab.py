@@ -9,10 +9,16 @@
 # Read and save the resulting JSON text to a file.
 
 import runreport
-
 import requests
 
 url = 'http://api.urbandictionary.com/v0/define'
 
+params = {'term': 'sigma'}
 
+response = requests.get(url, params=params)
 
+wfh = open('sigma.json', 'w')
+
+wfh.write(response.text)
+
+wfh.close()
