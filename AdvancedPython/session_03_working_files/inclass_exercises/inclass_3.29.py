@@ -4,13 +4,8 @@
 
 greet = 'Hello, world!'
 
-bytestr = greet.encode(# add encoding here)
+bytestr = greet.encode('utf-8')
 print(bytestr)
 
 # subscript the bytestring to see individual characters
-
-
-
 # now call bytestr.decode() with the same encoding to see the string again
-
-

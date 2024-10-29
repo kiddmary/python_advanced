@@ -4,6 +4,5 @@
 # convert back from integer to character.
 
 char = 'A'
-
-
-
+idx = ord(char)
+char2 = chr(idx)

@@ -4,5 +4,3 @@
 
 for idx in range(65, 70):
     print(chr(idx))
-
-
