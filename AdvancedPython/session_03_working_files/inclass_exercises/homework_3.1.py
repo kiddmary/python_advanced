@@ -1,3 +1,9 @@
+"""
+    homework_3.1.py - Scrape a New York Times article
+    Author: Mary Kidd (kiddmary@gmail.com)
+    Last Revised: 10/28/2024
+"""
+
 import requests
 from bs4 import BeautifulSoup
 
