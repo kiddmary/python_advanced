@@ -9,11 +9,9 @@ lines = [
   'Acme.  ']
 
 for line in lines:
-    if re.search(r'Benter', line):
+    if not re.search(r'Velas', line):
         print(line)
 
 # Expected Output (for Benter):
-
 # while Ms. Velas provides vision and major deals for
 # Acme.
-

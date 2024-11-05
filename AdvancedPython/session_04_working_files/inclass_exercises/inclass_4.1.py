@@ -1,5 +1,4 @@
 # 4.1:  Match a simple character pattern.
-
 # Search for 'Velas', then try 'Benter' and 'Acme'.
 
 import re
@@ -11,11 +10,9 @@ lines = [
   'Acme.  ']
 
 for line in lines:
-    if re.search(r'', line):
+    if re.search(r'Acme', line):
         print(line)
 
 # Expected Output (for Velas):
-
 # President Maria Velas.  Mr. Benter focuses on R&D
 # while Ms. Velas provides vision and major deals for
-

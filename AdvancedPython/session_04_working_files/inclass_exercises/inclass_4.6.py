@@ -1,5 +1,4 @@
 # 4.6:  "Word" character class.
-
 # Match each string that has a letter, number or underscore.
 
 import re
@@ -20,13 +19,9 @@ match_strings = [
 
 count = 0
 for string in match_strings:
-    if re.search(r'', string):
+    if re.search(r'\w', string):
         print(string)
         count += 1
 print(f'count:  {count}')
 
-
 # Expected Output:
-
-
-

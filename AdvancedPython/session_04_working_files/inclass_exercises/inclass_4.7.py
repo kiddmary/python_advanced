@@ -1,5 +1,4 @@
 # 4.7:  "Space" character class.
-
 # Match on each line that has a space.
 
 import re
@@ -20,12 +19,9 @@ match_strings = [
 
 count = 0
 for string in match_strings:
-    if re.search(r'', string):
+    if re.search(r'\s', string):
         print(string)
         count += 1
 print(f'count:  {count}')
 
 # Expected Output:
-
-
-
