@@ -1,7 +1,6 @@
 # 4.15:  Match on each string that starts with a digit.
 
 import runreport
-
 import re
 
 match_strings = [
@@ -20,7 +19,7 @@ match_strings = [
 
 count = 0
 for string in match_strings:
-    if re.search(r'', string):
+    if re.search(r'^\d', string):
         print(string)
         count += 1
 print(f'count:  {count}')

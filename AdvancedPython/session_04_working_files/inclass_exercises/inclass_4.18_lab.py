@@ -20,7 +20,7 @@ match_strings = [
 
 count = 0
 for string in match_strings:
-    if re.search(r'', string):
+    if re.search(r'\d$', string):
         print(string)
         count += 1
 print(f'count:  {count}')
@@ -32,4 +32,3 @@ print(f'count:  {count}')
 # 00
 # 88557799
 # count: 4
-

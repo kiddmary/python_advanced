@@ -1,5 +1,4 @@
 # 4.5:  "Digit" character class.
-
 # Match on each string that has a digit.
 
 import re

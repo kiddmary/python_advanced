@@ -9,11 +9,9 @@ lines = [  'this is the first line,',
            ' this is the third line.  '     ]
 
 for line in lines:
-    if re.search(r'', line):
+    if re.search(r'^\s', line):
         print(line)
 
 # Expected Output:
-
 #  and this is the second line and',
 #  this is the third line.  '     ]
-

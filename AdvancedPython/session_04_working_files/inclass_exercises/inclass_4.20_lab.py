@@ -1,4 +1,4 @@
-# 4.20:  Match on each string that consists only of a 2-digit number.
+    # 4.20:  Match on each string that consists only of a 2-digit number.
 
 import runreport
 
