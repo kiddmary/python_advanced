@@ -1,5 +1,5 @@
-# 4.31:  Quantifiers with anchors.  Match on each string that consists only of letters, numbers or
-# the underscore.
+# 4.31:  Quantifiers with anchors.  Match on each string that consists only of letters,
+# numbers or the underscore.
 
 import re
 
@@ -19,16 +19,14 @@ match_strings = [
 
 count = 0
 for string in match_strings:
-    if re.search(r'', string):
+    if re.search(r'^\w+$', string):
         print(string)
         count += 1
 print(f'count:  {count}')
 
 # Expected Output:
-
 # aloha
 # 99
 # 00
 # 88557799
 # count: 4
-

@@ -1,7 +1,6 @@
 # 4.21:  Match on a capital letter followed by a lowercase letter.
 
-import runreport
-
+# import runreport
 import re
 
 match_strings = [
@@ -20,12 +19,10 @@ match_strings = [
 
 count = 0
 for string in match_strings:
-    if re.search(r'', string):
+    if re.search(r'[A-Z][a-z]', string):
         print(string)
         count += 1
 print(f'count:  {count}')
 
 # Expected Output:
-
 # Que 3 Tal!
-

@@ -1,4 +1,5 @@
-# 4.32:  Quantifiers with anchors (2).  Match on each string that consists only of non-digits.
+# 4.32:  Quantifiers with anchors (2).
+# Match on each string that consists only of non-digits.
 
 import re
 
@@ -18,16 +19,14 @@ match_strings = [
 
 count = 0
 for string in match_strings:
-    if re.search(r'', string):
+    if re.search(r'^\D+$', string):
         print(string)
         count += 1
 print(f'count:  {count}')
 
 # Expected Output:
-
 # goodbye world
 # aloha
 # myfile.jpg
 # yourfile.JPG
 # count: 4
-

@@ -18,13 +18,11 @@ match_strings = [
 
 count = 0
 for string in match_strings:
-    if re.search(r'', string):
+    if re.search(r'^[A-Za-z]+$', string):
         print(string)
         count += 1
 print(f'count:  {count}')
 
 # Expected Output:
-
 # aloha
 # count: 1
-

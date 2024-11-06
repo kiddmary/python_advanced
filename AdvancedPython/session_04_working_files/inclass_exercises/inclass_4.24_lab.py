@@ -1,16 +1,15 @@
 # 4.24:  Determine whether selected word begins with a vowel.  If so, prepend an 'an' rather an an
 # 'a'.
 
-import runreport
-
+# import runreport
 import re
 
 words = ['apple', 'pear', 'orange', 'kiwi', 'elderberry', 'carrot', 'ugli fruit']
 for word in words:
-    if re.search(r'', word):
-        prepend = 'an'
-    else:
+    if re.search(r'^[^aeiou]', word):
         prepend = 'a'
+    else:
+        prepend = 'an'
     print(f"{prepend} {word}")
 
 # Expected Output:
