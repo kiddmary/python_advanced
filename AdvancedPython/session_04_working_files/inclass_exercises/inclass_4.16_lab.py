@@ -1,7 +1,6 @@
 # 4.16:  Match on each string that starts with a space.
 
 import runreport
-
 import re
 
 lines = [  'this is the first line,',

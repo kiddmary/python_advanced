@@ -1,6 +1,6 @@
 # 4.22:  Match on files with date format YYYY-MM-DD followed by '.txt'.
 
-# import runreport
+import runreport
 import re
 
 dirlist = ('.', '..', '2010-12-15.txt', '2010-12-16.txt',

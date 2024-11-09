@@ -1,7 +1,6 @@
 # 4.49:  Match on each string that ends in .jpg or .JPG
 
 import runreport
-
 import re
 
 match_strings = [
@@ -20,14 +19,12 @@ match_strings = [
 
 count = 0
 for string in match_strings:
-    if re.search(r'', string):
+    if re.search(r'\.jpg$', string, re.I):
         print(string)
         count += 1
 print(f'count:  {count}')
 
 # Expected Output:
-
 # myfile.jpg
 # yourfile.JPG
 # count: 2
-

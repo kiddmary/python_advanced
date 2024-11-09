@@ -1,5 +1,4 @@
 # 4.34:  Custom quantifier.
-
 # Match on each string that has two or more spaces at the end.
 
 import re
@@ -20,14 +19,12 @@ match_strings = [
 
 count = 0
 for string in match_strings:
-    if re.search(r'', string):
+    if re.search(r'\s{2,}$', string):
         print(string)
         count += 1
 print(f'count:  {count}')
 
 # Expected Output:
-
 # goodbye world
 # wilkommen23
 # count: 2
-

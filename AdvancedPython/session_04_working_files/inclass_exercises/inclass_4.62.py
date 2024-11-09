@@ -3,10 +3,8 @@
 import re
 
 args = 'this that   other  and  some  other'
-args2 = re.sub(r'', ",", args)
+args2 = re.sub(r'\s+', ",", args)
 print(args2)
 
 # Expected Output:
-
 # this,that,other,and,some,other
-

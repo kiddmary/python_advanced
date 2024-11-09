@@ -4,10 +4,8 @@
 import re
 
 ui = '23, 14, 7,3,9'
-numbers = re.split(r'', ui)
+numbers = re.split(r',\s*', ui)
 print(numbers)
 
 # Expected Output:
-
 # ['23', '14', '7', '3', '9']
-

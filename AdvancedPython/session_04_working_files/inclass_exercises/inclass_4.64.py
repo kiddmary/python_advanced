@@ -19,14 +19,12 @@ if a == b:
 This is some discussion...
 """
 
-matchobj = re.search(r'', text)
+matchobj = re.search(r'=code start=(.+)=code end=', text, re.DOTALL)
 
 print(matchobj.group(1))
 
 # Expected Output:
-
 # a = 5
 # b = 5.0
 # if a == b:
 #     print('yes')
-

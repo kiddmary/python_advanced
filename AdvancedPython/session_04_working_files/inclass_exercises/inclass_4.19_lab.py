@@ -1,7 +1,6 @@
 # 4.19:  Match on each line that ends with a space.
 
 import runreport
-
 import re
 
 lines = [  'this is the first line, ',

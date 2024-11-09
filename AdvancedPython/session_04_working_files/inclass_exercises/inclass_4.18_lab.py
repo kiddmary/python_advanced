@@ -1,7 +1,6 @@
 # 4.18:  Match on each string that ends with a digit.
 
 import runreport
-
 import re
 
 match_strings = [

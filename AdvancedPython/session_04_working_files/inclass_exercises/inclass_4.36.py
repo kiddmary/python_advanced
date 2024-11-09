@@ -1,5 +1,4 @@
 # 4.36:  Custom quantifier.
-
 # Print those numbers that are in the millions (i.e., 7 or more digits).
 
 import re
@@ -16,11 +15,9 @@ nums = [
 ]
 
 for num in nums:
-    if re.search(r'', num):
+    if re.search(r'\d{7,}', num):
         print(num)
 
 # Expected Output:
-
 # 1000000
 # 10000000
-

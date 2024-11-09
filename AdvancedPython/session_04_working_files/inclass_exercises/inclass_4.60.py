@@ -9,7 +9,7 @@ results = [ 'Name: Joe;  Favorite Color:  Blue;  Employee ID: 2395',
             'Name:  Teneski; Favorite Color: Green;  Employee ID:  1913' ]
 
 for row in results:
-    matchobj = re.search(r'', row)
+    matchobj = re.search(r'^Name:\s+([A-Za-z]+);\s+(Favorite Color:\s+([A-Za-z]+);\s+)?Employee ID:\s+(\d+)', row)
     print(matchobj.groups())
 
 # Expected Output:
@@ -21,4 +21,3 @@ for row in results:
 # Note that if you see the message AttributeError: 'NoneType' object has no attribute 'group', this
 # means that the search did not find a match and returned None, and the code attempted to call
 # .group() on None.  Check the string and pattern to determine why it did not match.
-

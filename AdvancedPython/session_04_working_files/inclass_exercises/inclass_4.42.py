@@ -1,5 +1,4 @@
 # 4.42:  Escape quantifier character *.
-
 # Match on all lines with asterisked footnotes.
 
 import re
@@ -12,12 +11,10 @@ numbers = [
     'and the profit-making motive.',
 ]
 for num in numbers:
-    if re.search(r'', num):
+    if re.search(r'\*', num):
         print(num)
 
 # Expected Output:
-
 # As Ibid* said,
 # than compasssion*, love,
 # mutual benefit*
-

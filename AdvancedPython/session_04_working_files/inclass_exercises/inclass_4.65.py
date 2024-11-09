@@ -1,7 +1,7 @@
 # 4.65:  Multiline anchors.
 
-# Use findall() to extra numbers from only the start of each line of the text.  Use re.MULTILINE to
-# allow the carrot (^) to match at the start of any line.
+# Use findall() to extra numbers from only the start of each line of the text.
+# Use re.MULTILINE to allow the carrot (^) to match at the start of any line.
 
 import re
 
@@ -16,11 +16,9 @@ on the left side
 
 """
 
-matches = re.findall(r'', text)
+matches = re.findall(r'^\d+', text, re.MULTILINE)
 
 print(matches)
 
 # Expected Output:
-
 # ['23', '12', '5', '93']
-

@@ -1,5 +1,4 @@
 # 4.40:  Escape end anchor (aka dollar sign).
-
 # Match on strings that have a dollar amount, including two decimal places ($23.53).
 
 import re
@@ -13,7 +12,7 @@ lines = [
 ]
 
 for line in lines:
-    if re.search(r'', line):
+    if re.search(r'\$\d+\.\d+', line):
         print(line)
 
 

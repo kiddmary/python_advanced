@@ -1,7 +1,6 @@
 # 4.45:  Match those lines that contain a 7-digit hex number (a-fA-F0-9).
 
 import runreport
-
 import re
 
 lines = [
@@ -11,11 +10,10 @@ lines = [
 ]
 
 for line in lines:
-    if re.search(r'', line):
+    if re.search(r'[a-fA-F0-9]{7}', line):
         print(line)
 
 # Expected Output:
 
 # The color code is #ABF2307.
 # The memory address is fc9d223.
-

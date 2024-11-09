@@ -1,10 +1,11 @@
-# 4.54:  Group for extraction.  In one regex match, extract the IP address from this log line.
+# 4.54:  Group for extraction.  In one regex match, extract the IP address from this
+# log line.
 
 import re
 
 line = '172.26.93.208 - - [28/Jun/2012:21:00:17 -0400] "GET /~cmk380/pythondata/image2b.txt HTTP/1.1" 200 30'
 
-matchobj = re.search(r'', line)
+matchobj = re.search(r'^(\d{2,3}\.\d{2,3}\.\d{2,3}\.\d{2,3})', line)
 
 if matchobj:
     print(matchobj.group(1))

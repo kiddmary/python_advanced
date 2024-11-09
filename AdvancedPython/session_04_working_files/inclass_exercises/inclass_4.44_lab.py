@@ -2,7 +2,6 @@
 # non-space character is a hash mark).
 
 import runreport
-
 import re
 
 text = """
@@ -15,14 +14,11 @@ if True:
 """
 
 for line in text.splitlines():
-    if not re.search(r'', line):
+    if not re.search(r'^\#', line):
         print(line)
 
-
 # Expected Output:
-
 # a = 5
 # b = 10              # an int
 # if True:
 #     c = a * b
-

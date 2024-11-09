@@ -1,5 +1,4 @@
 # 4.38:  Custom Quantifier.
-
 # A password must be 3-8 characters in length (letters, numbers and underscores are permitted).
 # Validate the below password attempts.
 
@@ -14,11 +13,9 @@ attempts = [
     'supercalifrag']
 
 for password in attempts:
-    if re.search(r'', password):
+    if re.search(r'^\w{3,8}$', password):
         print(f'{password}:  validated')
 
 # Expected Output:
-
 # 1234:  validated
 # password:  validated
-

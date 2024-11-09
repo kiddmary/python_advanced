@@ -1,5 +1,5 @@
-# 4.39:  Escape wildcard (aka period).  Match on each string that has a letter, number or underscore
-# followed by a period.
+# 4.39:  Escape wildcard (aka period).  Match on each string that has a letter,
+# number or underscore followed by a period.
 
 import re
 
@@ -19,16 +19,12 @@ match_strings = [
 
 count = 0
 for string in match_strings:
-    if re.search(r'', string):
+    if re.search(r'\w\.', string):
         print(string)
         count += 1
 print(f'count:  {count}')
 
 # Expected Output:
-
 # myfile.jpg
 # yourfile.JPG
 # count: 2
-
-# Note:  why would this work without escaping the period?  Because
-

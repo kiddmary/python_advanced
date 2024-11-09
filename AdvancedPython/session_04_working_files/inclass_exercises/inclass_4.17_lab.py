@@ -1,7 +1,6 @@
 # 4.17:  Loop through and print only lines with some text (not including spaces).
 
 import runreport
-
 import re
 
 text = """line 1

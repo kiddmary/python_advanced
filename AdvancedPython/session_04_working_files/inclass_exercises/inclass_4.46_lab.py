@@ -1,7 +1,6 @@
 # 4.46:  Show those lines that contain two capitalized words (as in a name).
 
 import runreport
-
 import re
 
 lines = [
@@ -12,11 +11,9 @@ lines = [
 ]
 
 for line in lines:
-    if re.search(r'', line):
+    if re.search(r'[A-Z][a-z]+\s+[A-Z][a-z]+', line):
         print(line)
 
 # Expected Output:
-
 #     The owner is Gwen Harstridge.
 #     I hail from Los Angeles, California.
-

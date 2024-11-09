@@ -1,8 +1,7 @@
-# 4.48:  Print only those files that start with 'image#' ('image' plus a possible number) and end in
-# any of these image extensions:  '.jpg', '.png', '.gif'
+# 4.48:  Print only those files that start with 'image#' ('image' plus a possible number)
+# and end in any of these image extensions:  '.jpg', '.png', '.gif'
 
 import runreport
-
 import re
 
 filenames = ['image2.jpg', 'image.png', 'file.txt', 'file2.doc',
@@ -10,14 +9,12 @@ filenames = ['image2.jpg', 'image.png', 'file.txt', 'file2.doc',
              'advert.jpg', 'advert.png']
 
 for name in filenames:
-    if re.search(r'', name):
+    if re.search(r'image[0-9]\.(jpg|png|gif)$', name):
         print(name)
 
 # Expected Output:
-
 # image2.jpg
 # image.png
 # image2.gif
 # image3.jpg
 # image4.jpg
-
