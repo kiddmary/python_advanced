@@ -9,12 +9,16 @@ import re
 
 user_bytes = {}
 
+counter = 0
+
 with open('access_log.txt') as fh:
 
     for line in fh:
+
         matchobj = re.search(r'~(\w+)/.*\s(\d+)$', line)
 
         if matchobj:
+            counter += 1
             username = matchobj.group(1)
             bytes_used = int(matchobj.group(2))
 
@@ -25,6 +29,8 @@ with open('access_log.txt') as fh:
 
 filtered_usernames = [username for username in user_bytes if user_bytes[username] > 10000000]
 sorted_usernames = sorted(filtered_usernames, key=user_bytes.get, reverse=True)
+
+print(f'{counter} matches found (both user id and end-of-line bytes found on the line)')
 
 for username in sorted_usernames:
     print(f'{username}: {user_bytes[username]}')
