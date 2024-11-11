@@ -15,12 +15,13 @@ with open('access_log.txt') as fh:
 
     for line in fh:
 
-        matchobj = re.search(r'~([A-Za-z]{2,3}\d+)/.*\s(\d+)$', line)
+        match_netid = re.search(r'~([A-Za-z]{2,3}\d+)', line)
+        match_bytes = re.search(r'\s(\d+)$', line)
 
-        if matchobj:
+        if match_netid and match_bytes:
             counter += 1
-            username = matchobj.group(1)
-            bytes_used = int(matchobj.group(2))
+            username = match_netid.group(1)
+            bytes_used = int(match_bytes.group(1))
 
             if username in user_bytes:
                 user_bytes[username] += bytes_used
