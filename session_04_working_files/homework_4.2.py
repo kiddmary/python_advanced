@@ -15,7 +15,7 @@ with open('access_log.txt') as fh:
 
     for line in fh:
 
-        matchobj = re.search(r'~(\w+)/.*\s(\d+)$', line)
+        matchobj = re.search(r'~([A-Za-z]{2,3}\d+)/.*\s(\d+)$', line)
 
         if matchobj:
             counter += 1
