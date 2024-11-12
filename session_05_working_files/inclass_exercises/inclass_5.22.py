@@ -1,5 +1,5 @@
-# 5.22:  Given the following list of dicts, sort the dicts by each dict's last name.  Loop through
-# and print each dict.
+# 5.22:  Given the following list of dicts, sort the dicts by each dict's last name.
+# Loop through and print each dict.
 
 people = [
     { 'id':     '12345',
@@ -18,5 +18,10 @@ people = [
       'addr':   '23 Marsh Avenue' }
 ]
 
-# your code here
+def last_name_sort(mydict):
+    return mydict['lname']
 
+sorteddict = sorted(people, key=last_name_sort)
+
+for mydict in sorteddict:
+    print(mydict)

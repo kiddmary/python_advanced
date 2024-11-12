@@ -1,5 +1,5 @@
-# 5.24:  map() and filter() functions:  call below functions to see result.  Play with return value
-# of functions to see altered result.
+# 5.24:  map() and filter() functions:  call below functions to see result.
+# Play with return value of functions to see altered result.
 
 def doubleit(arg):
     return arg * 2

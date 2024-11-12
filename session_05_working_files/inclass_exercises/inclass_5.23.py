@@ -1,5 +1,5 @@
-# 5.23:  Given the following dict of dicts, sort the dict keys by the last name.  Loop through and
-# print each key.
+# 5.23:  Given the following dict of dicts, sort the dict keys by the last name.
+# Loop through and print each key.
 
 people = {  '12345': { 'fname':  'Joe',
                        'lname':  'Wilson',
@@ -14,5 +14,9 @@ people = {  '12345': { 'fname':  'Joe',
                        'addr':   '23 Marsh Avenue' }
 }
 
-# your code here
+def dict_by_dict_addr(dict_key):
+    return people[dict_key]['lname']
 
+skeys = sorted(people, key=dict_by_dict_addr)
+
+print(skeys)
