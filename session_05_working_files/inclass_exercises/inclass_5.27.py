@@ -4,7 +4,6 @@
 # what is happening here.
 
 def my_decorator(func):    # func: function, 'whoop'
-
     def wrapper():
         print("Something is happening before whoop() is called.")
 
@@ -13,7 +12,6 @@ def my_decorator(func):    # func: function, 'whoop'
         print("Something is happening after whoop() is called.")
 
     return wrapper         # return function 'wrapper'
-
 
 def whoop():
     print("Wheee!")
@@ -24,5 +22,3 @@ whoop = my_decorator(whoop)          # function 'wrapper'
 
 # calling the replacement function
 whoop()                              # (calls function wrapper)
-
-

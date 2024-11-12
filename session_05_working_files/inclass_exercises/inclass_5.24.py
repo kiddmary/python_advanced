@@ -2,7 +2,7 @@
 # Play with return value of functions to see altered result.
 
 def doubleit(arg):
-    return arg * 2
+    return arg * 10
 
 def is_positive(arg):
     if arg > 0:
@@ -17,10 +17,9 @@ transformed_list = map(doubleit, proclist)
 filtered_list = filter(is_positive, proclist)
 
 print('* mapped list *')
-print(transformed_list)
+print(list(transformed_list))
 
 print()
 
 print('* filtered list *')
-print(filtered_list)
-
+print(list(filtered_list))

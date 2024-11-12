@@ -16,10 +16,9 @@ def my_decorator(func):             # func:  function, 'whoop'
     return wrapper                  # return function 'wrapper'
 
 @my_decorator                       # replacing whoop with wrapper
-def whoop(a, b, x=None, y=None):
-    print(f"Wheee!:  {a}, {b}, {x}, {y}")
+def whoop(*args, **kwargs):
+    print(f"Wheee!:  {args} {kwargs}")
 
 
 # calling the replacement function
 whoop(5, 10, x=99, y='hey!')        # calling wrapper(5, 10, x=99, y='hey!')
-

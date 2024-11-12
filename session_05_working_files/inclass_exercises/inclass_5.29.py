@@ -4,9 +4,11 @@
 # and print the variables args and kwargs inside the function.
 
 def printargs(w, x, y=0, z=None):
-
     print(w, x, y, z)
-
 
 printargs(5, 10, y=100, z='Hello!')
 
+def printargs(*args, **kwargs):
+    print(args, kwargs)
+
+printargs(5, 10, y=100, z='Hello!')

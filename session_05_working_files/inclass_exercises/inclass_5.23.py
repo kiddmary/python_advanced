@@ -13,7 +13,6 @@ people = {  '12345': { 'fname':  'Joe',
                        'lname':  'Wilson',
                        'addr':   '23 Marsh Avenue' }
 }
-
 def dict_by_dict_addr(dict_key):
     return people[dict_key]['lname']
 

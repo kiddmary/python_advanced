@@ -17,7 +17,6 @@ people = [
       'lname':  'Wilson',
       'addr':   '23 Marsh Avenue' }
 ]
-
 def last_name_sort(mydict):
     return mydict['lname']
 
