@@ -1,12 +1,14 @@
-# 5.7:  Call callit(), passing greet as argument, then inside callit(), call the function through
-# the argument (do not call greet()).
+# 5.7:  Call callit(), passing greet as argument, then inside callit(), call the
+# function through the argument (do not call greet()).
 
 def callit(func):
-    # your code here
+    func()
 
 def greet():
     print('hello, world!')
 
+def goodbye():
+    print('Goodbye, world!')
 
-# your code also here
-
+callit(greet)
+callit(goodbye)

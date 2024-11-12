@@ -7,4 +7,4 @@ x = ['a', 'b', 'c']
 
 appendme(x)
 
-
+print(x)

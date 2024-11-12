@@ -2,10 +2,8 @@
 
 charlist = ['a', 'z', 'b', 'c', 'd', 'f']
 
-# your code here
-
+x = sorted(charlist)
+print(x)
 
 # Expected Output:
-
 # ['a', 'b', 'c', 'd', 'f', 'z']
-

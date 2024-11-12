@@ -1,6 +1,9 @@
-# 5.4:  Two lists or three?  Is the list in the last item of y a duplicate list?  How can we test?
+# 5.4:  Two lists or three?  Is the list in the last item of y a duplicate list?
+# How can we test?
 
 x = ['a', 'b', 'c']
 
 y = [1, 2, 3, x]
 
+x.append('d')
+print(y[-1])

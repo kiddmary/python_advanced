@@ -2,10 +2,8 @@
 
 numlist = [1, 13, 23, 3, 9, 16]
 
-# your code here
-
+x = sorted(numlist, reverse=True)
+print(x)
 
 # Expected Output:
-
 # [23, 16, 13, 9, 3, 1]
-

@@ -1,5 +1,4 @@
 # 5.14:  Experiential exercise.  Please run the following code:
-
 def my_element_modifier(arg):
     lower_arg = arg.lower()
     print(f'sorting element "{arg}" by value "{lower_arg}"')
@@ -10,7 +9,6 @@ sorted_list = sorted(['e', 'c', 'D', 'B', 'a'],
 print(sorted_list)
 
 # Note the output:
-
 # sorting element "e" by value "e"
 # sorting element "c" by value "c"
 # sorting element "D" by value "d"
@@ -30,4 +28,3 @@ print(sorted_list)
 # the other functions and methods we've used before -- using int, len, str.upper, etc.  They are all
 # passing a function to be applied to each element, and Python is sorting by the value returned from
 # the function or method.
-

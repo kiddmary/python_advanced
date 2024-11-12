@@ -10,15 +10,13 @@
 
 charlist = ['F', 'e', 'c', 'a', 'B', 'D']
 
-# your code here
-
+x = sorted(charlist, key=str.lower)
+print(x)
 
 # Expected Output:
-
 # ['a', 'B', 'c', 'D', 'e', 'F']
 
 # If you see this message:
-
 # TypeError: descriptor 'upper' of 'str' object needs an argument
 
 # it means that you added parentheses and attempted to call the str.upper or str.lower method.  Keep
@@ -27,4 +25,3 @@ charlist = ['F', 'e', 'c', 'a', 'B', 'D']
 # purposes of sorting.  If we give it str.upper it will sort 'a' as 'A' and 'B' as 'B' and 'c' as
 # 'C' -- this should indicate to you how we are able to use it for alphabetic sorting with mixed-
 # case strings.
-

@@ -4,3 +4,5 @@ x = ['a', 'b', 'c']
 
 y = x
 
+newx = x.append('d')
+print(y)
