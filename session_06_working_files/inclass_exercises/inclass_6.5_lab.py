@@ -1,17 +1,15 @@
-# 6.5:  Create a class Random that has a method get_rand(val) that returns a random number from 1 to
-# the specified value.  Call as shown.
+# 6.5:  Create a class Random that has a method get_rand(val) that returns a random
+# number from 1 to the specified value.  Call as shown.
 
-# (A random number can be generated with random.randint(x, y) where x and y are the minimum and
-# maximum values.)
+# (A random number can be generated with random.randint(x, y) where x and y are the
+# minimum and maximum values.)
 
 import runreport
-
 import random
 
-# your code here
-
-
-
+class Random:
+    def get_rand(self, maxint):
+        return random.randint(1, maxint)
 
 obj = Random()
 
@@ -22,7 +20,5 @@ val2 = obj.get_rand(18)   # random number from 1-18
 print(val2)
 
 # Expected Output:
-
 # 4
 # 3
-
