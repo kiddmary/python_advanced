@@ -6,7 +6,6 @@
 # 
 # Next, print obj2 and call obj2.something(), and note the output, particularly the hex codes.
 class Do:
-
     def something(self):
         print(self)
 

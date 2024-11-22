@@ -1,4 +1,12 @@
+"""
+ 6.1_homework_choose_a_card.py -- Generate card deck, pick in order, and after shuffling
+
+ Author: Mary Kidd (kiddmary@gmail.com)
+ Last Revised: 11/19/2024
+"""
+
 import random
+
 class Deck:
     def __init__(self):
 

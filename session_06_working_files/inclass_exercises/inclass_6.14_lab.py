@@ -1,6 +1,11 @@
 # 6.14:  Create a class Name that allows you to store a person's first and last name:
 
-import runreport
+# import runreport
+
+class Name:
+    def __init__(self, fname, lname):
+        self.first = fname
+        self.last = lname
 
 n = Name('David', 'Blaikie')
 
@@ -13,4 +18,3 @@ print(n.last)       # 'Blaikie'
 # In __init__(), store the two values in attributes .first and .last.
 # 
 # Use the above code as a test to see that the attributes have been successfully stored.
-

@@ -24,19 +24,20 @@
 
 import temputils as tu
 
-
 # construct a TempConvert object as 32 degrees Fahrenheit
+ftemp = tu.TempConvert(32)
 
 # call .as_celsius() to see the value 0
-
+ctemp = ftemp.as_celsius()
+print(ctemp)
 
 # construct a Tempconvert object as 100 degrees Celsius
+celctemp = tu.TempConvert(100, 'C')
 
 # call .as_fahrenheit() to see the value 212
-
+fatemp = celctemp.as_fahrenheit()
+print(fatemp)
 
 # Expected Output:
-
 # 0.0
 # 212.0
-
