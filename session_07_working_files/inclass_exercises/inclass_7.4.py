@@ -8,4 +8,4 @@ mydict = {'a': 1, 'b': 2, 'c': 3}    # dict object
 mystr = 'hello'                      # str object
 myint = 55                           # int object
 
-
+print(dir(mystr))

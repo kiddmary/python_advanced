@@ -11,7 +11,7 @@ data = [
     [3, 4.2, 'orange']
 ]
 
+df = pd.DataFrame(data, columns=['num', 'float', 'text'],
+                  index=['a', 'b', 'c'])
 
-
-
-
+print(df)

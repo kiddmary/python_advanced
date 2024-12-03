@@ -8,12 +8,7 @@ mystr = 'hello'
 fh = open('../pconfig.json')
 
 # identify the object and attribute in each of the below
-
-mylist.append(5)
-
-mystr.upper()
-
-json.load(fh)
-
-sys.argv
-
+mylist.append(5)    # object: mylist (list)  | attribute: append (method)
+mystr.upper()       # object: mystr (string) | attribute: upper (method)
+json.load(fh)       # object: json (module)  | attribute: load (function)
+sys.argv            # object: sys (module)   | attribute: argv (function)

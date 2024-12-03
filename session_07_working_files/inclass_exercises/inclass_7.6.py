@@ -4,13 +4,13 @@
 #   1. regular attribute lookup (i.e., .cval)
 #   2. dir()
 #   3. Do.__dict__.keys()
-# 
-
 class Do:
-
     cval = 5
-
     def dothis(self):
         print('done!')
 
-
+a = Do()
+print(a.cval)
+print(dir(a))
+b = Do.__dict__.keys()
+print(b)

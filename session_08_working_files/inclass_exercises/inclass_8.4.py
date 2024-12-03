@@ -7,6 +7,3 @@ import pandas as pd
 
 fname = '../revenue.csv'
 ss_name = '../revenue.xlsx'
-
-
-

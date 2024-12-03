@@ -1,6 +1,7 @@
 # 8.2:  Include some useful settings.
 
 import warnings
+import pandas as pd
 
 ## Enable multiple outputs from jupyter cells
 from IPython.core.interactiveshell import InteractiveShell
@@ -14,4 +15,3 @@ pd.set_option('display.max_rows', 8)
 
 # suppress excel reader warning:  'extension is unsupported'
 warnings.filterwarnings('ignore', category=UserWarning, module='openpyxl')
-
